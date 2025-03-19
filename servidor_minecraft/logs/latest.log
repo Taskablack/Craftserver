@@ -1829,3 +1829,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Mar2025 22:19:43.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Spooky Scary Skeletons]
 [19Mar2025 22:19:43.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Damage is 300 bucks]
 [19Mar2025 22:20:38.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Ice Bucket Challenge]
+[19Mar2025 22:22:19.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Jennifer Dumped Me]
+[19Mar2025 22:25:59.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Alligator In Name Only]
+[19Mar2025 22:26:55.129] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1347, y=46, z=-162} but found not block entity block Block{minecraft:diorite} at location
+[19Mar2025 22:26:55.129] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:diorite} but failed at location BlockPos{x=-1347, y=46, z=-162}
+[19Mar2025 22:26:55.129] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1351, y=46, z=-162} but found not block entity block Block{minecraft:stone} at location
+[19Mar2025 22:26:55.130] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1351, y=46, z=-162}
+[19Mar2025 22:26:55.130] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1349, y=46, z=-162} but found not block entity block Block{minecraft:stone} at location
+[19Mar2025 22:26:55.130] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1349, y=46, z=-162}
+[19Mar2025 22:26:55.130] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1353, y=46, z=-162} but found not block entity block Block{minecraft:stone} at location
+[19Mar2025 22:26:55.131] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1353, y=46, z=-162}
+[19Mar2025 22:30:50.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind

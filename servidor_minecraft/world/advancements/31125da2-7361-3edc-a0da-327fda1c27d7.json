@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "killed_by": "2025-03-19 22:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-19 18:46:22 +0000"
@@ -437,6 +443,14 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "deep_bayou": "2025-03-19 22:24:41 +0000",
+      "bayou_mangrove": "2025-03-19 22:19:02 +0000",
+      "bayou": "2025-03-19 22:19:21 +0000"
+    },
+    "done": false
+  },
   "betterendforge:recipes/betterendforge/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-03-19 18:51:11 +0000"
@@ -758,9 +772,21 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_swamp": "2025-03-19 22:27:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-03-19 18:24:43 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/ghost_skin_talisman": {
+    "criteria": {
+      "obtain_relic": "2025-03-19 22:19:43 +0000"
     },
     "done": true
   },
@@ -1078,11 +1104,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2025-03-19 22:19:32 +0000",
       "minecraft:forest": "2025-03-19 18:12:15 +0000",
+      "minecraft:bamboo_jungle": "2025-03-19 22:21:44 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-19 22:16:33 +0000",
       "minecraft:beach": "2025-03-19 18:19:23 +0000",
       "minecraft:river": "2025-03-19 18:19:56 +0000",
       "minecraft:lukewarm_ocean": "2025-03-19 18:20:03 +0000",
+      "minecraft:swamp": "2025-03-19 22:17:42 +0000",
       "minecraft:plains": "2025-03-19 18:20:10 +0000"
     },
     "done": false
@@ -1291,6 +1320,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-03-19 22:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-19 18:30:07 +0000"
@@ -1432,6 +1467,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-03-19 18:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-03-19 22:20:38 +0000"
     },
     "done": true
   },
@@ -1748,6 +1789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-19 22:20:38 +0000"
+    },
+    "done": true
+  },
   "rats:rats/root": {
     "criteria": {
       "tick": "2025-03-19 18:12:15 +0000"
@@ -1757,6 +1804,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-19 21:24:08 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-03-19 22:22:19 +0000"
     },
     "done": true
   },
@@ -2012,6 +2065,12 @@
     },
     "done": true
   },
+  "relics:obtain/rage_glove": {
+    "criteria": {
+      "obtain_relic": "2025-03-19 22:19:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-03-19 18:19:12 +0000"
@@ -2150,6 +2209,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "bayou_mangrove": "2025-03-19 22:19:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_plank": "2025-03-19 18:24:43 +0000"
@@ -2201,6 +2266,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-03-19 18:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-19 22:20:38 +0000"
     },
     "done": true
   },
