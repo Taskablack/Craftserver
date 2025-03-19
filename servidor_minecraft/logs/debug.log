@@ -5931,3 +5931,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Mar2025 21:42:37.904] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [19Mar2025 21:47:37.913] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19Mar2025 21:47:37.922] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Mar2025 21:52:37.983] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Mar2025 21:52:37.992] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Mar2025 21:54:51.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[19Mar2025 21:54:51.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: a<--[HERE]
+[19Mar2025 21:57:37.985] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Mar2025 21:57:37.995] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

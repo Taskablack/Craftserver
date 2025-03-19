@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-19 21:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-03-19 18:21:04 +0000"
@@ -362,6 +368,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-03-19 18:51:11 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/tin_ingot_from_smelting": {
+    "criteria": {
+      "has_ores_tin": "2025-03-19 21:48:04 +0000"
     },
     "done": true
   },
@@ -554,6 +566,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-19 21:41:00 +0000",
+      "minecraft:spider": "2025-03-19 21:50:33 +0000",
       "minecraft:creeper": "2025-03-19 21:42:35 +0000",
       "minecraft:zombie": "2025-03-19 18:32:05 +0000"
     },
@@ -640,6 +653,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-19 18:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-19 21:49:39 +0000"
     },
     "done": true
   },
@@ -1169,6 +1188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-03-19 21:49:39 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-03-19 18:12:15 +0000"
@@ -1677,6 +1702,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-19 21:24:08 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/tin_ingot_from_blasting": {
+    "criteria": {
+      "has_ores_tin": "2025-03-19 21:48:04 +0000"
     },
     "done": true
   },

@@ -1820,3 +1820,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Mar2025 21:33:47.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 joined the game
 [19Mar2025 21:33:47.823] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4476dab1 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [19Mar2025 21:33:47.825] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@733f961c (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Mar2025 21:54:51.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[19Mar2025 21:54:51.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: a<--[HERE]
