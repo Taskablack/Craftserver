@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-03-19 22:40:49 +0000"
+    },
+    "done": true
+  },
   "scalinghealth:recipes/scalinghealth/power_crystal": {
     "criteria": {
       "cobblestone": "2025-03-19 18:30:07 +0000"
@@ -113,6 +119,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-03-19 22:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-03-19 18:51:11 +0000"
@@ -185,6 +197,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/ingots_lead_to_storage_block": {
+    "criteria": {
+      "has_at_least_9_ingots_lead": "2025-03-19 22:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-19 22:36:27 +0000"
@@ -230,6 +248,12 @@
   "betterendforge:recipes/betterendforge/thallasium_pickaxe_smithing": {
     "criteria": {
       "has_stick": "2025-03-19 18:13:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-19 22:43:33 +0000"
     },
     "done": true
   },
@@ -386,6 +410,12 @@
   "relics:obtain/wool_mitten": {
     "criteria": {
       "obtain_relic": "2025-03-19 21:12:22 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/lead_axe": {
+    "criteria": {
+      "has_ingots_lead": "2025-03-19 22:42:03 +0000"
     },
     "done": true
   },
@@ -659,6 +689,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/lead_shovel": {
+    "criteria": {
+      "has_ingots_lead": "2025-03-19 22:42:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-03-19 18:24:45 +0000"
@@ -749,6 +785,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/lead_leggings": {
+    "criteria": {
+      "has_ingots_lead": "2025-03-19 22:42:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "way_sign": "2025-03-19 18:26:38 +0000"
@@ -788,6 +830,12 @@
   "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
     "criteria": {
       "has_stick": "2025-03-19 18:13:47 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/lead_sword": {
+    "criteria": {
+      "has_ingots_lead": "2025-03-19 22:42:03 +0000"
     },
     "done": true
   },
@@ -863,6 +911,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/lead_chestplate": {
+    "criteria": {
+      "has_ingots_lead": "2025-03-19 22:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-19 18:24:45 +0000"
@@ -887,6 +941,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-03-19 22:43:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wind_vane": {
     "criteria": {
       "has_item": "2025-03-19 18:34:39 +0000"
@@ -908,6 +968,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-03-19 18:13:28 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/lead_hoe": {
+    "criteria": {
+      "has_ingots_lead": "2025-03-19 22:42:03 +0000"
     },
     "done": true
   },
@@ -1049,6 +1115,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/lead_pickaxe": {
+    "criteria": {
+      "has_ingots_lead": "2025-03-19 22:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-19 18:46:22 +0000"
@@ -1172,6 +1244,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-03-19 22:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/mysticalworld/lead_knife_from_ingots_lead": {
+    "criteria": {
+      "has_ingots_lead": "2025-03-19 22:42:03 +0000"
     },
     "done": true
   },
@@ -1333,6 +1411,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-03-19 22:43:33 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2025-03-19 18:12:15 +0000"
@@ -1402,6 +1486,12 @@
   "betterendforge:recipes/betterendforge/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2025-03-19 22:20:38 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/lead_helmet": {
+    "criteria": {
+      "has_ingots_lead": "2025-03-19 22:42:03 +0000"
     },
     "done": true
   },
@@ -1510,6 +1600,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-19 18:26:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-03-19 22:43:44 +0000"
     },
     "done": true
   },
@@ -1935,6 +2031,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-19 22:43:33 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_diamond": "2025-03-19 18:49:55 +0000"
@@ -2061,6 +2163,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/ingots_lead_to_9_nuggets": {
+    "criteria": {
+      "has_ingot_ingots_lead": "2025-03-19 22:42:03 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-03-19 18:21:16 +0000"
@@ -2142,6 +2250,12 @@
   "farmersdelight:recipes/farmersdelight/spruce_pantry": {
     "criteria": {
       "has_spruce_trapdoor": "2025-03-19 18:43:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-03-19 22:43:44 +0000"
     },
     "done": true
   },
@@ -2280,6 +2394,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-03-19 18:44:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-03-19 22:43:33 +0000"
     },
     "done": true
   },
@@ -2517,6 +2637,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/lead_boots": {
+    "criteria": {
+      "has_ingots_lead": "2025-03-19 22:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-03-19 18:13:42 +0000"
@@ -2712,6 +2838,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2025-03-19 18:44:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-03-19 22:43:44 +0000"
     },
     "done": true
   },
