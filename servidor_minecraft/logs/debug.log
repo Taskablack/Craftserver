@@ -5927,3 +5927,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Mar2025 21:33:47.865] [Server thread/DEBUG] [Scaling Health/]: Sending login packet to player ServerPlayerEntity['Taskablack7'/648, l='ServerLevel[world]', x=-325.86, y=53.00, z=26.87]
 [19Mar2025 21:37:38.346] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19Mar2025 21:37:38.359] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Mar2025 21:42:37.894] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Mar2025 21:42:37.904] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Mar2025 21:47:37.913] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Mar2025 21:47:37.922] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/lead_ingot_from_blasting": {
+    "criteria": {
+      "has_ores_lead": "2025-03-19 21:42:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-03-19 18:30:07 +0000"
@@ -182,6 +188,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-03-19 21:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2025-03-19 21:43:24 +0000"
     },
     "done": true
   },
@@ -541,6 +553,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-19 21:41:00 +0000",
+      "minecraft:creeper": "2025-03-19 21:42:35 +0000",
       "minecraft:zombie": "2025-03-19 18:32:05 +0000"
     },
     "done": false
@@ -1140,6 +1154,12 @@
   "mysticalworld:recipes/misc/leather_from_rotten_flesh_x3": {
     "criteria": {
       "has_rotten_Flesh": "2025-03-19 18:32:07 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/lead_ingot_from_smelting": {
+    "criteria": {
+      "has_ores_lead": "2025-03-19 21:42:59 +0000"
     },
     "done": true
   },
@@ -1945,6 +1965,12 @@
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-03-19 21:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2025-03-19 21:43:24 +0000"
     },
     "done": true
   },
