@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "relics:obtain/root": {
+    "criteria": {
+      "obtain_relic": "2025-03-19 21:12:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-03-19 18:19:12 +0000"
@@ -570,6 +576,12 @@
     },
     "done": true
   },
+  "relics:obtain/wool_mitten": {
+    "criteria": {
+      "obtain_relic": "2025-03-19 21:12:22 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-03-19 18:36:28 +0000"
@@ -723,6 +735,12 @@
   "betterendforge:recipes/betterendforge/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-03-19 18:51:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-19 21:12:22 +0000"
     },
     "done": true
   },
@@ -1849,6 +1867,12 @@
   "betterendforge:recipes/betterendforge/terminite_hoe_smithing": {
     "criteria": {
       "has_stick": "2025-03-19 18:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-03-19 21:12:17 +0000"
     },
     "done": true
   },

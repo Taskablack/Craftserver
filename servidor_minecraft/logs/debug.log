@@ -5930,3 +5930,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Mar2025 21:04:35.631] [Server thread/DEBUG] [Scaling Health/]: Sending login packet to player ServerPlayerEntity['Taskablack7'/672, l='ServerLevel[world]', x=-304.16, y=68.06, z=63.56]
 [19Mar2025 21:04:50.547] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19Mar2025 21:04:50.560] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Mar2025 21:09:49.939] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Mar2025 21:09:49.948] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Mar2025 21:12:17.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Local Brewery]
+[19Mar2025 21:12:22.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Magic Writing]
+[19Mar2025 21:12:22.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Thunderstorm of snowmens]
+[19Mar2025 21:14:49.957] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Mar2025 21:14:49.968] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Mar2025 21:16:09.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has reached the goal [Zombie Doctor]

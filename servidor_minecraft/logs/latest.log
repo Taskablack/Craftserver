@@ -1819,3 +1819,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Mar2025 21:04:35.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 joined the game
 [19Mar2025 21:04:35.605] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@47075211 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [19Mar2025 21:04:35.606] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6ef995 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[19Mar2025 21:12:17.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Local Brewery]
+[19Mar2025 21:12:22.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Magic Writing]
+[19Mar2025 21:12:22.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Thunderstorm of snowmens]
+[19Mar2025 21:16:09.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has reached the goal [Zombie Doctor]
