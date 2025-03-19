@@ -5941,3 +5941,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Mar2025 22:02:37.898] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [19Mar2025 22:07:38.039] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19Mar2025 22:07:38.048] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Mar2025 22:12:38.044] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Mar2025 22:12:38.052] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Mar2025 22:14:02.623] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[19Mar2025 22:15:44.188] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/8626, l='ServerLevel[world]', x=-429.85, y=62.52, z=98.76]
+[19Mar2025 22:17:38.780] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Mar2025 22:17:38.789] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Mar2025 22:19:09.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
+[19Mar2025 22:19:28.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[19Mar2025 22:19:43.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Spooky Scary Skeletons]
+[19Mar2025 22:19:43.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Damage is 300 bucks]
+[19Mar2025 22:20:38.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Ice Bucket Challenge]
