@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-03-20 01:34:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 00:45:23 +0000"
@@ -530,6 +536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2025-03-20 01:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 00:45:23 +0000"
@@ -558,10 +570,14 @@
     "criteria": {
       "deep_bayou": "2025-03-20 00:29:57 +0000",
       "woodland": "2025-03-20 00:31:17 +0000",
+      "shrubland": "2025-03-20 01:28:41 +0000",
       "scrubland": "2025-03-20 01:02:47 +0000",
+      "grassland_clover_patch": "2025-03-20 01:33:08 +0000",
       "bayou": "2025-03-19 23:58:52 +0000",
       "wooded_scrubland": "2025-03-20 01:02:12 +0000",
       "dense_woodland": "2025-03-20 00:31:05 +0000",
+      "shrubland_hills": "2025-03-20 01:31:36 +0000",
+      "grassland": "2025-03-20 01:33:28 +0000",
       "gravel_beach": "2025-03-20 00:42:51 +0000"
     },
     "done": false
@@ -840,6 +856,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-03-20 01:28:48 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/iron_spear": {
     "criteria": {
       "has_iron_sword": "2025-03-20 00:47:18 +0000"
@@ -861,6 +883,12 @@
   "mysticalworld:recipes/misc/shapeless_book_with_string": {
     "criteria": {
       "has_string": "2025-03-20 00:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-20 01:30:24 +0000"
     },
     "done": true
   },
@@ -1194,6 +1222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime": "2025-03-20 01:30:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-20 00:44:27 +0000"
@@ -1428,6 +1462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-20 01:30:24 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-03-20 00:43:49 +0000"
@@ -1560,6 +1600,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/rose_cordial": {
+    "criteria": {
+      "has_first": "2025-03-20 01:32:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 00:45:23 +0000"
@@ -1611,6 +1657,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-03-20 00:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-20 01:34:15 +0000"
     },
     "done": true
   },
