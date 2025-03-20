@@ -11,6 +11,24 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/scalinghealth/power_crystal": {
+    "criteria": {
+      "cobblestone": "2025-03-20 02:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-03-20 00:41:58 +0000"
@@ -77,6 +95,12 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/scalinghealth/medkit": {
+    "criteria": {
+      "cobblestone": "2025-03-20 02:09:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 00:45:23 +0000"
@@ -86,6 +110,12 @@
   "biomesoplenty:recipes/redstone/willow_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-20 00:04:02 +0000"
+    },
+    "done": true
+  },
+  "undead:chompesx": {
+    "criteria": {
+      "chompesx": "2025-03-20 02:09:01 +0000"
     },
     "done": true
   },
@@ -311,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-03-20 02:02:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-03-20 01:56:58 +0000"
@@ -398,6 +434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_small_prairie_house": {
     "criteria": {
       "location0": "2025-03-20 01:36:52 +0000"
@@ -419,6 +461,12 @@
   "minecraft:recipes/mysticalworld/wood_knife_from_planks": {
     "criteria": {
       "has_planks": "2025-03-20 00:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
     },
     "done": true
   },
@@ -651,9 +699,21 @@
     },
     "done": false
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-20 02:09:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-03-20 01:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
     },
     "done": true
   },
@@ -666,6 +726,12 @@
   "betterendforge:recipes/betterendforge/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-03-20 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-20 02:04:53 +0000"
     },
     "done": true
   },
@@ -720,6 +786,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-03-19 23:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
     },
     "done": true
   },
@@ -885,6 +957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-03-20 01:56:55 +0000"
@@ -948,6 +1026,12 @@
   "biomesoplenty:recipes/building_blocks/willow_planks": {
     "criteria": {
       "has_logs": "2025-03-20 00:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-20 02:02:22 +0000"
     },
     "done": true
   },
@@ -1275,6 +1359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-03-20 02:02:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-03-20 01:12:49 +0000"
@@ -1329,6 +1419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2025-03-20 01:21:18 +0000"
@@ -1344,6 +1440,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-20 00:32:10 +0000"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/scalinghealth/bandages": {
+    "criteria": {
+      "cobblestone": "2025-03-20 02:09:03 +0000"
     },
     "done": true
   },
@@ -1395,6 +1497,12 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/scalinghealth/heart_crystal": {
+    "criteria": {
+      "cobblestone": "2025-03-20 02:09:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 00:45:23 +0000"
@@ -1440,6 +1548,12 @@
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_plank": "2025-03-20 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_item": "2025-03-20 02:09:03 +0000"
     },
     "done": true
   },
@@ -1542,6 +1656,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-20 00:41:20 +0000"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/scalinghealth/heart_dust": {
+    "criteria": {
+      "cobblestone": "2025-03-20 02:09:03 +0000"
     },
     "done": true
   },
@@ -1665,6 +1785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-03-20 00:01:49 +0000"
@@ -1674,7 +1800,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2025-03-20 00:01:59 +0000",
+      "minecraft:cold_ocean": "2025-03-20 02:03:46 +0000",
       "minecraft:forest": "2025-03-19 23:57:46 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-20 02:03:41 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-20 02:05:50 +0000",
       "minecraft:birch_forest": "2025-03-20 00:41:51 +0000",
       "minecraft:bamboo_jungle": "2025-03-20 00:02:41 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-20 01:43:58 +0000",
@@ -1709,9 +1838,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-03-20 00:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
     },
     "done": true
   },
@@ -1720,6 +1861,12 @@
       "in_ruins_land_warm": "2025-03-20 01:35:21 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
@@ -1760,6 +1907,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-03-20 01:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
     },
     "done": true
   },
@@ -1928,6 +2081,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-03-20 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-20 02:09:03 +0000"
     },
     "done": true
   },

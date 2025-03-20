@@ -6371,3 +6371,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Mar2025 01:59:06.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has reached the goal [Fortuitous Militia]
 [20Mar2025 01:59:22.662] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [20Mar2025 01:59:22.670] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Mar2025 02:02:33.322] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ANDRES45Y) moved wrongly! 0.7287736663193982
+[20Mar2025 02:02:33.371] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ANDRES45Y) moved wrongly! 0.7287736663193982
+[20Mar2025 02:02:33.422] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ANDRES45Y) moved wrongly! 0.7287736663193982
+[20Mar2025 02:02:33.459] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ANDRES45Y) moved wrongly! 0.7287736663193982
+[20Mar2025 02:02:33.522] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ANDRES45Y) moved wrongly! 0.8235780708264429
+[20Mar2025 02:02:33.572] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ANDRES45Y) moved wrongly! 0.8235780708264429
+[20Mar2025 02:02:33.621] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ANDRES45Y) moved wrongly! 1.0589808955196531
+[20Mar2025 02:02:33.673] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ANDRES45Y) moved wrongly! 1.0589808955196531
+[20Mar2025 02:04:22.984] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Mar2025 02:04:22.992] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Mar2025 02:04:53.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Magic Writing]
+[20Mar2025 02:08:21.129] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Taskablack7 lost connection: Disconnected
+[20Mar2025 02:08:21.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 left the game
+[20Mar2025 02:09:01.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Chomps!]
+[20Mar2025 02:09:03.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Stone Age]
+[20Mar2025 02:09:23.036] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Mar2025 02:09:23.044] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

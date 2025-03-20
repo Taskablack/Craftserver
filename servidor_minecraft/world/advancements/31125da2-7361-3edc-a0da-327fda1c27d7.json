@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-20 02:01:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-19 22:36:27 +0000"
@@ -338,6 +344,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-03-19 21:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-03-20 02:01:54 +0000"
     },
     "done": true
   },
@@ -530,6 +542,12 @@
   "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
     "criteria": {
       "has_stick": "2025-03-19 18:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-03-20 02:01:54 +0000"
     },
     "done": true
   },
@@ -802,6 +820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_crimson_planks": "2025-03-20 02:01:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-19 18:49:47 +0000"
@@ -994,6 +1018,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_crimson": {
+    "criteria": {
+      "has_plank": "2025-03-20 02:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-03-20 02:01:54 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/lead_chestplate": {
     "criteria": {
       "has_ingots_lead": "2025-03-19 22:42:03 +0000"
@@ -1003,6 +1039,18 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-19 18:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-20 02:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-20 02:01:54 +0000"
     },
     "done": true
   },
@@ -1369,7 +1417,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2025-03-19 22:19:32 +0000",
+      "minecraft:cold_ocean": "2025-03-20 02:03:46 +0000",
       "minecraft:forest": "2025-03-19 18:12:15 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-20 02:03:41 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-20 02:05:50 +0000",
       "minecraft:birch_forest": "2025-03-20 00:23:53 +0000",
       "minecraft:bamboo_jungle": "2025-03-19 22:21:44 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-19 22:16:33 +0000",
@@ -2017,6 +2068,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_plank": "2025-03-20 02:01:54 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/silver_ingot_from_smelting": {
     "criteria": {
       "has_ores_silver": "2025-03-19 21:58:04 +0000"
@@ -2146,6 +2203,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-03-19 21:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-03-20 02:01:54 +0000"
     },
     "done": true
   },
@@ -2308,6 +2371,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-03-19 18:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-20 02:01:54 +0000"
     },
     "done": true
   },
