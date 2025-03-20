@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/tin_pickaxe": {
+    "criteria": {
+      "has_ingots_tin": "2025-03-20 00:01:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-03-19 18:34:09 +0000"
@@ -311,6 +317,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/tin_leggings": {
+    "criteria": {
+      "has_ingots_tin": "2025-03-20 00:01:40 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/wet_mud_block": {
     "criteria": {
       "has_dirt": "2025-03-19 18:30:13 +0000"
@@ -449,6 +461,18 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/tin_axe": {
+    "criteria": {
+      "has_ingots_tin": "2025-03-20 00:01:40 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/tin_sword": {
+    "criteria": {
+      "has_ingots_tin": "2025-03-20 00:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-03-19 18:22:09 +0000"
@@ -518,8 +542,11 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "deep_bayou": "2025-03-19 22:24:41 +0000",
+      "woodland": "2025-03-20 00:19:43 +0000",
       "bayou_mangrove": "2025-03-19 22:19:02 +0000",
-      "bayou": "2025-03-19 22:19:21 +0000"
+      "bayou": "2025-03-19 22:19:21 +0000",
+      "dense_woodland": "2025-03-20 00:19:24 +0000",
+      "gravel_beach": "2025-03-20 00:25:39 +0000"
     },
     "done": false
   },
@@ -550,6 +577,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-19 18:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/mysticalworld/tin_knife_from_ingots_tin": {
+    "criteria": {
+      "has_ingots_tin": "2025-03-20 00:01:40 +0000"
     },
     "done": true
   },
@@ -673,6 +706,7 @@
       "minecraft:magma_cube": "2025-03-19 22:34:51 +0000",
       "minecraft:spider": "2025-03-19 21:50:33 +0000",
       "minecraft:creeper": "2025-03-19 21:42:35 +0000",
+      "minecraft:stray": "2025-03-20 00:44:15 +0000",
       "minecraft:zombie": "2025-03-19 18:32:05 +0000"
     },
     "done": false
@@ -977,6 +1011,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-03-20 00:26:54 +0000"
+    },
+    "done": true
+  },
   "scalinghealth:recipes/scalinghealth/bandages": {
     "criteria": {
       "cobblestone": "2025-03-19 18:30:07 +0000"
@@ -1187,6 +1227,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/ingots_tin_to_9_nuggets": {
+    "criteria": {
+      "has_ingot_ingots_tin": "2025-03-20 00:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-03-19 18:32:05 +0000"
@@ -1257,11 +1303,13 @@
     "criteria": {
       "minecraft:jungle_edge": "2025-03-19 22:19:32 +0000",
       "minecraft:forest": "2025-03-19 18:12:15 +0000",
+      "minecraft:birch_forest": "2025-03-20 00:23:53 +0000",
       "minecraft:bamboo_jungle": "2025-03-19 22:21:44 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-19 22:16:33 +0000",
       "minecraft:beach": "2025-03-19 18:19:23 +0000",
       "minecraft:river": "2025-03-19 18:19:56 +0000",
       "minecraft:lukewarm_ocean": "2025-03-19 18:20:03 +0000",
+      "minecraft:birch_forest_hills": "2025-03-20 00:25:41 +0000",
       "minecraft:swamp": "2025-03-19 22:17:42 +0000",
       "minecraft:plains": "2025-03-19 18:20:10 +0000"
     },
@@ -1315,6 +1363,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-03-20 00:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-20 00:20:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-19 18:30:07 +0000"
@@ -1336,6 +1396,18 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-03-19 18:51:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-20 00:03:49 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/tin_helmet": {
+    "criteria": {
+      "has_ingots_tin": "2025-03-20 00:01:40 +0000"
     },
     "done": true
   },
@@ -1486,6 +1558,12 @@
   "betterendforge:recipes/betterendforge/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2025-03-19 22:20:38 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/ice_breaker": {
+    "criteria": {
+      "obtain_relic": "2025-03-20 00:21:16 +0000"
     },
     "done": true
   },
@@ -1693,6 +1771,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/tin_boots": {
+    "criteria": {
+      "has_ingots_tin": "2025-03-20 00:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-19 21:22:40 +0000"
@@ -1797,6 +1881,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/tin_shovel": {
+    "criteria": {
+      "has_ingots_tin": "2025-03-20 00:01:40 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-03-19 18:49:55 +0000"
@@ -1872,6 +1962,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-19 22:03:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-03-20 00:29:04 +0000"
     },
     "done": true
   },
@@ -2019,6 +2115,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/ingots_tin_to_storage_block": {
+    "criteria": {
+      "has_at_least_9_ingots_tin": "2025-03-20 00:01:40 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/tin_ingot_from_blasting": {
     "criteria": {
       "has_ores_tin": "2025-03-19 21:48:04 +0000"
@@ -2124,6 +2226,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-19 18:26:29 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/tin_chestplate": {
+    "criteria": {
+      "has_ingots_tin": "2025-03-20 00:01:40 +0000"
     },
     "done": true
   },
@@ -2397,15 +2505,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-03-19 22:43:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-03-19 22:03:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-03-19 22:43:33 +0000"
     },
     "done": true
   },
@@ -2469,6 +2577,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-03-20 00:26:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "bayou_mangrove": "2025-03-19 22:19:02 +0000"
@@ -2514,6 +2628,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-19 18:34:39 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/tin_hoe": {
+    "criteria": {
+      "has_ingots_tin": "2025-03-20 00:01:40 +0000"
     },
     "done": true
   },
