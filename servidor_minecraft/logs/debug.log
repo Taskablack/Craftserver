@@ -8074,3 +8074,17 @@ java.lang.NullPointerException: null
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [20Mar2025 22:56:45.348] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [20Mar2025 22:56:45.348] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[20Mar2025 22:58:04.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has reached the goal [Here They Come]
+[20Mar2025 22:58:53.998] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:58:54.005] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Mar2025 22:59:38.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Creepy runner]
+[20Mar2025 23:03:53.573] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Mar2025 23:03:53.580] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Mar2025 23:06:39.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Jackpot!]
+[20Mar2025 23:06:44.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Monster Hunter]
+[20Mar2025 23:06:52.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 was shot by Skeleton
+[20Mar2025 23:06:52.399] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kitzune_85 was created at position [x:-461, y:66, z:116, dim:minecraft:overworld]
+[20Mar2025 23:06:52.401] [Server thread/INFO] [tombstone/]: The player Kitzune_85 has successfully been saved
+[20Mar2025 23:06:53.584] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Mar2025 23:06:53.584] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[20Mar2025 23:07:20.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [A Strange Grave Dust]
