@@ -6356,3 +6356,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Mar2025 01:44:23.388] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [20Mar2025 01:45:20.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Mine? Mine? Mine?]
 [20Mar2025 01:47:23.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [PI-KA-CHU]
+[20Mar2025 01:49:10.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported ANDRES45Y to Taskablack7]
+[20Mar2025 01:49:22.824] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Mar2025 01:49:22.831] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Mar2025 01:52:33.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Da Heavy]
+[20Mar2025 01:54:22.803] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Mar2025 01:54:22.810] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Mar2025 01:55:13.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Acidic zombie]
+[20Mar2025 01:56:30.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [You Are A Pirate]
+[20Mar2025 01:56:34.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [You Are A Pirate]
+[20Mar2025 01:57:36.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Ambush]
+[20Mar2025 01:58:19.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Ambush]
+[20Mar2025 01:58:49.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Not Today, Thank You]
+[20Mar2025 01:59:06.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has reached the goal [Fortuitous Militia]
+[20Mar2025 01:59:22.662] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Mar2025 01:59:22.670] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

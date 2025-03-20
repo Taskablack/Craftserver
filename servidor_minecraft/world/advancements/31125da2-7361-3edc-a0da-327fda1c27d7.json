@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-20 01:52:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-03-19 18:24:45 +0000"
@@ -452,6 +458,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-03-19 18:51:11 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-03-20 01:52:34 +0000"
     },
     "done": true
   },
@@ -589,6 +601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-20 01:52:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/mysticalworld/tin_knife_from_ingots_tin": {
     "criteria": {
       "has_ingots_tin": "2025-03-20 00:01:40 +0000"
@@ -711,13 +729,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-20 01:57:36 +0000",
       "minecraft:skeleton": "2025-03-19 21:41:00 +0000",
+      "minecraft:vindicator": "2025-03-20 01:58:10 +0000",
       "minecraft:magma_cube": "2025-03-19 22:34:51 +0000",
       "minecraft:spider": "2025-03-19 21:50:33 +0000",
       "minecraft:creeper": "2025-03-19 21:42:35 +0000",
       "minecraft:stray": "2025-03-20 00:44:15 +0000",
       "minecraft:vex": "2025-03-20 00:46:12 +0000",
-      "minecraft:zombie": "2025-03-19 18:32:05 +0000"
+      "minecraft:zombie": "2025-03-19 18:32:05 +0000",
+      "minecraft:drowned": "2025-03-20 01:52:46 +0000"
     },
     "done": false
   },
@@ -766,6 +787,12 @@
   "supplementaries:recipes/hanging_sign_jungle": {
     "criteria": {
       "has_plank": "2025-03-19 18:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-20 01:59:11 +0000"
     },
     "done": true
   },
@@ -961,6 +988,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/cooked_venison_from_campfire": {
+    "criteria": {
+      "has_venison": "2025-03-20 01:44:48 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/lead_chestplate": {
     "criteria": {
       "has_ingots_lead": "2025-03-19 22:42:03 +0000"
@@ -991,9 +1024,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-03-20 01:56:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2025-03-19 22:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-20 01:58:49 +0000"
     },
     "done": true
   },
@@ -1267,6 +1312,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-20 01:45:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-03-19 22:03:30 +0000"
@@ -1487,6 +1538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-20 01:52:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2025-03-19 21:49:39 +0000"
@@ -1586,6 +1643,18 @@
   "mysticalworld:recipes/mysticalworld/lead_helmet": {
     "criteria": {
       "has_ingots_lead": "2025-03-19 22:42:03 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/aubergine_salad": {
+    "criteria": {
+      "has_kelp": "2025-03-20 01:52:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 01:57:36 +0000"
     },
     "done": true
   },
@@ -1811,6 +1880,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-03-20 01:57:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_oak": {
     "criteria": {
       "has_plank": "2025-03-19 18:13:42 +0000"
@@ -1819,6 +1894,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-03-20 01:58:07 +0000",
       "apple": "2025-03-20 01:02:05 +0000",
       "bread": "2025-03-19 18:21:16 +0000",
       "golden_apple": "2025-03-20 00:50:40 +0000",
@@ -1860,6 +1936,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-03-19 18:34:41 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/beetroot_salad": {
+    "criteria": {
+      "has_kelp": "2025-03-20 01:52:34 +0000"
     },
     "done": true
   },
@@ -1926,6 +2008,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-03-19 18:36:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 01:59:06 +0000"
     },
     "done": true
   },
@@ -2088,6 +2176,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-03-19 18:34:39 +0000"
+    },
+    "done": true
+  },
+  "undead:shootspit": {
+    "criteria": {
+      "shootspit": "2025-03-20 01:55:13 +0000"
     },
     "done": true
   },
@@ -2475,6 +2569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-03-20 01:59:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-03-19 18:32:00 +0000"
@@ -2550,6 +2650,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-03-19 18:46:22 +0000"
+    },
+    "done": true
+  },
+  "undead:heavyic": {
+    "criteria": {
+      "heavyic": "2025-03-20 01:52:33 +0000"
     },
     "done": true
   },
@@ -2757,6 +2863,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-03-20 01:57:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-03-19 18:35:23 +0000"
@@ -2790,6 +2902,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-03-19 18:13:42 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_venison": {
+    "criteria": {
+      "has_venison": "2025-03-20 01:44:48 +0000"
     },
     "done": true
   },
@@ -2946,6 +3064,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-19 18:49:55 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_venison_from_smoker": {
+    "criteria": {
+      "has_venison": "2025-03-20 01:44:48 +0000"
     },
     "done": true
   },

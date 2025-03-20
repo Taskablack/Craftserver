@@ -1894,3 +1894,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Mar2025 01:41:48.952] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6680a773 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [20Mar2025 01:45:20.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Mine? Mine? Mine?]
 [20Mar2025 01:47:23.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [PI-KA-CHU]
+[20Mar2025 01:49:10.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported ANDRES45Y to Taskablack7]
+[20Mar2025 01:52:33.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Da Heavy]
+[20Mar2025 01:55:13.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Acidic zombie]
+[20Mar2025 01:56:30.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [You Are A Pirate]
+[20Mar2025 01:56:34.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [You Are A Pirate]
+[20Mar2025 01:57:36.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Ambush]
+[20Mar2025 01:58:19.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Ambush]
+[20Mar2025 01:58:49.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Not Today, Thank You]
+[20Mar2025 01:59:06.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has reached the goal [Fortuitous Militia]
