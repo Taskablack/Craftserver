@@ -904,6 +904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-20 02:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-19 18:13:42 +0000"
@@ -1422,6 +1428,7 @@
       "minecraft:deep_cold_ocean": "2025-03-20 02:03:41 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-20 02:05:50 +0000",
       "minecraft:birch_forest": "2025-03-20 00:23:53 +0000",
+      "minecraft:snowy_beach": "2025-03-20 02:13:42 +0000",
       "minecraft:bamboo_jungle": "2025-03-19 22:21:44 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-19 22:16:33 +0000",
       "minecraft:beach": "2025-03-19 18:19:23 +0000",
@@ -2392,6 +2399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-20 02:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-03-19 22:29:50 +0000"
@@ -2431,6 +2444,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-03-19 21:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-20 02:16:11 +0000"
     },
     "done": true
   },
@@ -2542,6 +2561,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-03-20 02:16:16 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/spruce_pantry": {
     "criteria": {
       "has_spruce_trapdoor": "2025-03-19 18:43:26 +0000"
@@ -2623,6 +2648,12 @@
   "mysticalworld:recipes/mysticalworld/bone_pile_1": {
     "criteria": {
       "has_bones": "2025-03-19 18:31:26 +0000"
+    },
+    "done": true
+  },
+  "undead:hairylol": {
+    "criteria": {
+      "hairylol": "2025-03-20 02:17:49 +0000"
     },
     "done": true
   },

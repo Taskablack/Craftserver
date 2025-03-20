@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "undead:thisisntslime": {
+    "criteria": {
+      "thisisntslime": "2025-03-20 02:18:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-03-20 00:52:08 +0000"
@@ -506,6 +512,12 @@
     },
     "done": true
   },
+  "relics:obtain/wool_mitten": {
+    "criteria": {
+      "obtain_relic": "2025-03-20 02:13:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-03-20 00:58:35 +0000"
@@ -747,6 +759,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 02:18:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-20 00:51:53 +0000"
@@ -981,6 +999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-20 02:18:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-03-20 00:05:26 +0000"
@@ -1020,6 +1044,12 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-03-20 01:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-20 02:18:27 +0000"
     },
     "done": true
   },
@@ -1149,6 +1179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-20 02:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-20 00:41:20 +0000"
@@ -1182,6 +1218,12 @@
   "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
     "criteria": {
       "has_stick": "2025-03-20 00:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-20 02:18:27 +0000"
     },
     "done": true
   },
@@ -1236,6 +1278,12 @@
   "betterendforge:recipes/betterendforge/golden_hammer": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "has_item": "2025-03-20 02:13:16 +0000"
     },
     "done": true
   },
@@ -1344,6 +1392,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-20 01:56:58 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_paper": "2025-03-20 02:13:16 +0000"
     },
     "done": true
   },
@@ -1575,6 +1629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-20 02:13:16 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_axe_smithing": {
     "criteria": {
       "has_stick": "2025-03-20 00:04:15 +0000"
@@ -1803,8 +1863,10 @@
       "minecraft:cold_ocean": "2025-03-20 02:03:46 +0000",
       "minecraft:forest": "2025-03-19 23:57:46 +0000",
       "minecraft:deep_cold_ocean": "2025-03-20 02:03:41 +0000",
+      "minecraft:snowy_tundra": "2025-03-20 02:14:09 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-20 02:05:50 +0000",
       "minecraft:birch_forest": "2025-03-20 00:41:51 +0000",
+      "minecraft:snowy_beach": "2025-03-20 02:13:12 +0000",
       "minecraft:bamboo_jungle": "2025-03-20 00:02:41 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-20 01:43:58 +0000",
       "minecraft:beach": "2025-03-20 01:06:42 +0000",
@@ -1817,6 +1879,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-20 02:13:16 +0000"
     },
     "done": true
   },
@@ -1853,6 +1921,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-20 02:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-20 02:13:42 +0000"
     },
     "done": true
   },
@@ -1943,6 +2017,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/ice_skates": {
+    "criteria": {
+      "obtain_relic": "2025-03-20 02:14:18 +0000"
     },
     "done": true
   },
@@ -2093,6 +2173,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-20 00:32:10 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/ice_breaker": {
+    "criteria": {
+      "obtain_relic": "2025-03-20 02:14:18 +0000"
     },
     "done": true
   },
