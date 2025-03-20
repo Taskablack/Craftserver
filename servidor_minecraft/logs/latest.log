@@ -1935,3 +1935,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Mar2025 02:18:08.788] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [20Mar2025 02:18:19.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported ANDRES45Y to Taskablack7]
 [20Mar2025 02:18:26.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Not a Slime Ball]
+[20Mar2025 02:21:35.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Yuri on ice]
+[20Mar2025 02:25:20.375] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/38965, l='ServerLevel[world]', x=-1752.78, y=44.19, z=-1648.09] died, message: 'Villager was slain by Decaying Zombie'
