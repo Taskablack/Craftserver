@@ -365,13 +365,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2025-03-20 23:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-03-20 22:20:53 +0000",
+      "porkchop": "2025-03-20 23:16:48 +0000",
       "apple": "2025-03-20 23:09:35 +0000",
       "bread": "2025-03-20 23:03:36 +0000",
       "rotten_flesh": "2025-03-20 22:26:44 +0000",
-      "golden_carrot": "2025-03-20 22:40:22 +0000"
+      "golden_carrot": "2025-03-20 22:40:22 +0000",
+      "carrot": "2025-03-20 23:17:46 +0000"
     },
     "done": false
   },
@@ -543,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-20 23:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-03-20 22:50:33 +0000"
@@ -603,6 +617,12 @@
     },
     "done": true
   },
+  "undead:pogg": {
+    "criteria": {
+      "pogg": "2025-03-20 23:16:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-03-20 22:32:28 +0000"
@@ -627,6 +647,7 @@
       "highland_moor": "2025-03-20 22:45:08 +0000",
       "seasonal_forest": "2025-03-20 23:12:50 +0000",
       "highland_crag": "2025-03-20 22:58:31 +0000",
+      "tundra": "2025-03-20 23:15:33 +0000",
       "gravel_beach": "2025-03-20 23:10:28 +0000"
     },
     "done": false
@@ -748,6 +769,12 @@
   "tombstone:adventure/eat_easter_egg_food": {
     "criteria": {
       "coded_trigger": "2025-03-20 22:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-20 23:20:50 +0000"
     },
     "done": true
   },
@@ -909,7 +936,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-03-20 23:06:44 +0000"
+      "minecraft:skeleton": "2025-03-20 23:06:44 +0000",
+      "minecraft:zombie": "2025-03-20 23:15:50 +0000"
     },
     "done": false
   },
@@ -1009,6 +1037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-20 23:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-20 22:13:42 +0000"
@@ -1045,6 +1079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-20 23:16:45 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/gold_chandelier": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 22:32:45 +0000"
@@ -1054,6 +1094,12 @@
   "mysticalworld:recipes/misc/shaped_book_with_string": {
     "criteria": {
       "has_string": "2025-03-20 22:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-20 23:20:50 +0000"
     },
     "done": true
   },
@@ -1072,6 +1118,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 22:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-20 23:16:45 +0000"
     },
     "done": true
   },
@@ -1126,6 +1178,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2025-03-20 22:12:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 23:15:51 +0000"
     },
     "done": true
   },
@@ -1327,6 +1385,12 @@
     },
     "done": true
   },
+  "undead:heavyic": {
+    "criteria": {
+      "heavyic": "2025-03-20 23:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-03-20 22:56:10 +0000"
@@ -1384,6 +1448,12 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_black_flower": "2025-03-20 22:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-20 23:20:50 +0000"
     },
     "done": true
   },
@@ -1447,6 +1517,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-03-20 23:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-03-20 22:12:23 +0000"
@@ -1462,6 +1538,12 @@
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-20 23:20:48 +0000"
     },
     "done": true
   },
@@ -1516,6 +1598,24 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-03-20 22:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-03-20 23:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-20 23:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-20 23:20:50 +0000"
     },
     "done": true
   },
@@ -1579,6 +1679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-20 23:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 22:32:45 +0000"
@@ -1606,6 +1712,12 @@
   "mysticalworld:recipes/mysticalworld/beetle_leggings": {
     "criteria": {
       "has_carapace": "2025-03-20 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2025-03-20 23:20:50 +0000"
     },
     "done": true
   },
@@ -1705,6 +1817,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-20 23:20:50 +0000"
     },
     "done": true
   },
@@ -1867,6 +1985,12 @@
   "etched:recipes/decorations/etching_table": {
     "criteria": {
       "has_iron": "2025-03-20 22:32:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-03-20 23:18:07 +0000"
     },
     "done": true
   },

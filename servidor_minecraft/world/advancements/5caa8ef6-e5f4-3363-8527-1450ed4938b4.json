@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-20 23:21:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:34:11 +0000"
@@ -242,6 +248,12 @@
   "mysticalworld:recipes/mysticalworld/wet_mud_block": {
     "criteria": {
       "has_dirt": "2025-03-20 22:25:04 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/wasp_attractant": {
+    "criteria": {
+      "has_bone_meal": "2025-03-20 23:21:00 +0000"
     },
     "done": true
   },
@@ -517,6 +529,7 @@
       "highland": "2025-03-20 22:45:53 +0000",
       "highland_moor": "2025-03-20 22:45:09 +0000",
       "seasonal_forest": "2025-03-20 23:12:51 +0000",
+      "tundra": "2025-03-20 23:15:20 +0000",
       "gravel_beach": "2025-03-20 23:10:36 +0000"
     },
     "done": false
@@ -771,6 +784,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-20 23:07:12 +0000",
       "minecraft:enderman": "2025-03-20 23:08:03 +0000",
+      "minecraft:zombie": "2025-03-20 23:16:23 +0000",
       "minecraft:drowned": "2025-03-20 23:11:14 +0000",
       "minecraft:zombie_villager": "2025-03-20 22:38:34 +0000"
     },
@@ -980,6 +994,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 23:16:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-03-20 22:24:56 +0000"
@@ -1046,6 +1066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-03-20 23:17:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-03-20 22:32:46 +0000"
@@ -1109,6 +1135,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "undead:heavyic": {
+    "criteria": {
+      "heavyic": "2025-03-20 23:16:29 +0000"
     },
     "done": true
   },
@@ -1223,6 +1255,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_plank": "2025-03-20 23:06:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-03-20 23:17:29 +0000"
     },
     "done": true
   },
@@ -1405,6 +1443,7 @@
       "minecraft:taiga_hills": "2025-03-20 22:25:01 +0000",
       "minecraft:beach": "2025-03-20 23:05:28 +0000",
       "minecraft:river": "2025-03-20 22:24:57 +0000",
+      "minecraft:wooded_mountains": "2025-03-20 23:15:09 +0000",
       "minecraft:giant_tree_taiga_hills": "2025-03-20 23:11:39 +0000"
     },
     "done": false
@@ -1670,6 +1709,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2025-03-20 23:21:00 +0000"
     },
     "done": true
   },
