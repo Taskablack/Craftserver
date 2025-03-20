@@ -1,19 +1,160 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-20 22:22:49 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/root": {
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "seeds": "2025-03-20 22:22:49 +0000"
+      "has_iron_boots": "2025-03-20 22:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-20 22:32:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_carrot": {
+    "criteria": {
+      "has_crops_carrot": "2025-03-20 22:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "undead:undeadto": {
+    "criteria": {
+      "undeadto": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:root": {
+    "criteria": {
+      "auto": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool": {
+    "criteria": {
+      "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-03-20 22:32:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-20 22:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-03-20 22:22:49 +0000",
+      "minecraft:taiga": "2025-03-20 22:25:31 +0000",
+      "minecraft:taiga_hills": "2025-03-20 22:25:01 +0000",
+      "minecraft:river": "2025-03-20 22:24:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-03-20 22:32:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
     },
     "done": true
   },
@@ -29,9 +170,153 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_smoking_upgrade": "2025-03-20 22:22:49 +0000"
+      "has_lots_of_items": "2025-03-20 22:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-20 22:28:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 22:23:15 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_carrot_from_campfire": {
+    "criteria": {
+      "has_crops_carrot": "2025-03-20 22:26:35 +0000"
+    },
+    "done": true
+  },
+  "rats:rats/root": {
+    "criteria": {
+      "tick": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_carrot_from_smoker": {
+    "criteria": {
+      "has_crops_carrot": "2025-03-20 22:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-20 22:32:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-20 22:25:52 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-20 22:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-03-20 22:30:43 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/wet_mud_block": {
+    "criteria": {
+      "has_dirt": "2025-03-20 22:25:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-20 22:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-20 22:27:22 +0000"
     },
     "done": true
   },
@@ -47,53 +332,18 @@
     },
     "done": true
   },
-  "tombstone:adventure/eat_easter_egg_food": {
-    "criteria": {
-      "coded_trigger": "2025-03-20 22:23:15 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-03-20 22:23:15 +0000"
-    },
-    "done": true
-  },
-  "undead:undeadto": {
-    "criteria": {
-      "undeadto": "2025-03-20 22:22:49 +0000"
-    },
-    "done": true
-  },
-  "rats:rats/root": {
-    "criteria": {
-      "tick": "2025-03-20 22:22:49 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-03-20 22:23:15 +0000"
-    },
-    "done": true
-  },
-  "mysticalworld:root": {
-    "criteria": {
-      "auto": "2025-03-20 22:22:49 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-03-20 22:22:49 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "has_upgrade_base": "2025-03-20 22:22:49 +0000"
+      "mushroom_stew": "2025-03-20 22:28:56 +0000",
+      "carrot": "2025-03-20 22:27:15 +0000"
     },
-    "done": true
+    "done": false
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
@@ -107,15 +357,135 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+  "supplementaries:recipes/bellows": {
     "criteria": {
-      "has_auto_smelting_upgrade": "2025-03-20 22:22:49 +0000"
+      "has_item": "2025-03-20 22:32:13 +0000"
     },
     "done": true
   },
-  "mowziesmobs:root": {
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
     "criteria": {
-      "custom_test_name": "2025-03-20 22:22:49 +0000"
+      "has_bowl": "2025-03-20 22:28:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_boots": "2025-03-20 22:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2025-03-20 22:31:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/misc/shapeless_book_with_string": {
+    "criteria": {
+      "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/vegetable_juice": {
+    "criteria": {
+      "has_carrot": "2025-03-20 22:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-03-20 22:30:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 22:23:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-03-20 22:23:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-03-20 22:28:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/misc/shaped_book_with_string": {
+    "criteria": {
+      "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:32:13 +0000"
     },
     "done": true
   },
@@ -124,12 +494,6 @@
       "always": "2025-03-20 22:22:49 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-03-20 22:22:49 +0000"
-    },
-    "done": false
   },
   "DataVersion": 2586
 }
