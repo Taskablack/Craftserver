@@ -6116,3 +6116,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Mar2025 00:46:33.199] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@318d9d6a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [20Mar2025 00:46:33.200] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6680a773 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [20Mar2025 00:46:42.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to ANDRES45Y]
+[20Mar2025 00:49:20.207] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Mar2025 00:49:20.216] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Mar2025 00:51:19.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [A Strange Grave Dust]
+[20Mar2025 00:51:20.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 was slain by Bone Imp
+[20Mar2025 00:51:20.828] [Server thread/DEBUG] [tombstone/]: A new grave of the player Taskablack7 was created at position [x:-435, y:94, z:-607, dim:minecraft:overworld]
+[20Mar2025 00:51:20.832] [Server thread/INFO] [tombstone/]: The player Taskablack7 has successfully been saved
+[20Mar2025 00:51:22.417] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Mar2025 00:51:22.417] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[20Mar2025 00:51:22.430] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@318d9d6a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Mar2025 00:51:22.430] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6680a773 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Mar2025 00:51:26.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to ANDRES45Y]
+[20Mar2025 00:51:53.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Diamonds!]
+[20Mar2025 00:52:01.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Spooky Scary Skeleton]
+[20Mar2025 00:54:20.243] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Mar2025 00:54:20.255] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
