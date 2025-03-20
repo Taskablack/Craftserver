@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-03-20 02:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-03-19 18:20:53 +0000"
@@ -754,6 +760,7 @@
       "minecraft:spider": "2025-03-19 21:50:33 +0000",
       "minecraft:creeper": "2025-03-19 21:42:35 +0000",
       "minecraft:stray": "2025-03-20 00:44:15 +0000",
+      "minecraft:enderman": "2025-03-20 02:35:54 +0000",
       "minecraft:vex": "2025-03-20 00:46:12 +0000",
       "minecraft:zombie": "2025-03-19 18:32:05 +0000",
       "minecraft:drowned": "2025-03-20 01:52:46 +0000"
@@ -1717,6 +1724,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-03-20 02:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-19 18:30:07 +0000"
@@ -1780,6 +1793,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-03-19 18:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-20 02:34:51 +0000"
     },
     "done": true
   },
@@ -2094,6 +2113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-20 02:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-03-19 18:24:43 +0000"
@@ -2346,6 +2371,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/thatch": {
+    "criteria": {
+      "has_wheat": "2025-03-20 02:34:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-03-19 18:12:15 +0000"
@@ -2436,6 +2467,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-03-20 02:34:51 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2025-03-19 18:21:41 +0000"
@@ -2517,6 +2554,12 @@
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-03-19 18:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-20 02:36:56 +0000"
     },
     "done": true
   },
@@ -2991,6 +3034,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2025-03-19 18:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-20 02:36:56 +0000"
     },
     "done": true
   },
