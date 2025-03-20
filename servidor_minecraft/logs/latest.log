@@ -1850,3 +1850,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Mar2025 00:51:26.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to ANDRES45Y]
 [20Mar2025 00:51:53.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Diamonds!]
 [20Mar2025 00:52:01.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Spooky Scary Skeleton]
+[20Mar2025 00:58:35.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y was slain by Taskablack7
+[20Mar2025 00:58:35.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Your First Grave]
+[20Mar2025 00:58:35.149] [Server thread/INFO] [tombstone/]: The player ANDRES45Y has successfully been saved
+[20Mar2025 00:58:39.660] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Mar2025 00:58:39.661] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[20Mar2025 00:58:52.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has reached the goal [Here They Come]
+[20Mar2025 00:59:00.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to ANDRES45Y]
+[20Mar2025 01:00:42.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to -439.5, 65.5, -585.5]
+[20Mar2025 01:00:49.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported ANDRES45Y to Taskablack7]
+[20Mar2025 01:07:05.931] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Taskablack7 lost connection: Disconnected
+[20Mar2025 01:07:05.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 left the game
+[20Mar2025 01:07:06.007] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2114 in minecraft:the_nether
+[20Mar2025 01:07:06.008] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2114 in minecraft:the_end
+[20Mar2025 01:07:06.010] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2114 in minecraft:overworld
+[20Mar2025 01:07:23.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[20Mar2025 01:07:23.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: asdad<--[HERE]
+[20Mar2025 01:07:29.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[20Mar2025 01:07:29.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: server goood<--[HERE]

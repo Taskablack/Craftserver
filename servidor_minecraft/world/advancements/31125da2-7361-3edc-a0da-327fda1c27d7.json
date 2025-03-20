@@ -550,7 +550,9 @@
       "deep_bayou": "2025-03-19 22:24:41 +0000",
       "woodland": "2025-03-20 00:19:43 +0000",
       "bayou_mangrove": "2025-03-19 22:19:02 +0000",
+      "scrubland": "2025-03-20 01:05:19 +0000",
       "bayou": "2025-03-19 22:19:21 +0000",
+      "wooded_scrubland": "2025-03-20 01:04:54 +0000",
       "dense_woodland": "2025-03-20 00:19:24 +0000",
       "gravel_beach": "2025-03-20 00:25:39 +0000"
     },
@@ -937,6 +939,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-03-19 18:19:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_the_recipe": "2025-03-20 00:56:32 +0000"
     },
     "done": true
   },
@@ -1810,6 +1818,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-03-20 01:02:05 +0000",
       "bread": "2025-03-19 18:21:16 +0000",
       "golden_apple": "2025-03-20 00:50:40 +0000",
       "rotten_flesh": "2025-03-19 22:35:42 +0000",
