@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-03-20 01:21:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-03-20 00:41:58 +0000"
@@ -71,6 +77,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-03-20 01:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-03-20 01:02:21 +0000"
@@ -101,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-20 01:21:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-03-20 00:05:26 +0000"
@@ -125,6 +143,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-03-20 01:21:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-03-20 00:01:24 +0000"
@@ -134,6 +158,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-03-20 01:15:30 +0000"
     },
     "done": true
   },
@@ -362,6 +392,12 @@
     },
     "done": true
   },
+  "undead:moony": {
+    "criteria": {
+      "moony": "2025-03-20 01:21:21 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-03-20 00:58:35 +0000"
@@ -389,6 +425,12 @@
   "biomesoplenty:recipes/redstone/willow_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-20 00:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-20 01:21:35 +0000"
     },
     "done": true
   },
@@ -692,6 +734,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/thatch": {
+    "criteria": {
+      "has_wheat": "2025-03-20 01:21:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-03-19 23:57:46 +0000"
@@ -771,6 +819,12 @@
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-03-20 01:21:35 +0000"
     },
     "done": true
   },
@@ -1074,6 +1128,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-03-20 01:21:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-03-20 00:40:13 +0000"
@@ -1374,6 +1434,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-03-20 01:20:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-03-20 00:01:49 +0000"
@@ -1455,6 +1521,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-03-20 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-20 01:20:08 +0000"
     },
     "done": true
   },
@@ -1611,6 +1683,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-03-19 23:57:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-03-20 01:15:30 +0000"
     },
     "done": true
   },

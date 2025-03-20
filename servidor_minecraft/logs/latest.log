@@ -1873,3 +1873,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Mar2025 01:11:04.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yasyd<--[HERE]
 [20Mar2025 01:11:54.520] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/8978, l='ServerLevel[world]', x=131.52, y=69.00, z=-841.37] died, message: 'Farmer was slain by Door Knight'
 [20Mar2025 01:13:33.224] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@50b41310
+[20Mar2025 01:20:08.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Ol' Betsy]
+[20Mar2025 01:20:08.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Take Aim]
+[20Mar2025 01:21:18.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Crops of the Wild]
+[20Mar2025 01:21:21.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Creepy runner]
+[20Mar2025 01:24:57.189] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/8485, l='ServerLevel[world]', x=68.84, y=65.50, z=-900.97] died, message: 'Nitwit was slain by Zombie'
