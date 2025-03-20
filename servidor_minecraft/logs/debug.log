@@ -6154,3 +6154,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Mar2025 01:07:23.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: asdad<--[HERE]
 [20Mar2025 01:07:29.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [20Mar2025 01:07:29.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: server goood<--[HERE]
+[20Mar2025 01:08:17.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Bottomless bag]
+[20Mar2025 01:09:20.974] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Mar2025 01:09:20.982] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Mar2025 01:11:04.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[20Mar2025 01:11:04.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yasyd<--[HERE]
+[20Mar2025 01:11:54.520] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/8978, l='ServerLevel[world]', x=131.52, y=69.00, z=-841.37] died, message: 'Farmer was slain by Door Knight'
+[20Mar2025 01:13:33.224] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@50b41310
+[20Mar2025 01:14:20.990] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Mar2025 01:14:20.998] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
