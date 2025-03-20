@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-20 01:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/mysticalworld/gold_knife_from_ingots_gold": {
     "criteria": {
       "has_ingots_gold": "2025-03-20 00:45:23 +0000"
@@ -305,6 +311,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/apple_cordial": {
+    "criteria": {
+      "has_first": "2025-03-20 01:37:28 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-03-20 00:51:19 +0000"
@@ -347,6 +359,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 00:45:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-03-20 01:36:52 +0000"
     },
     "done": true
   },
@@ -574,13 +592,22 @@
       "scrubland": "2025-03-20 01:02:47 +0000",
       "grassland_clover_patch": "2025-03-20 01:33:08 +0000",
       "bayou": "2025-03-19 23:58:52 +0000",
+      "highland": "2025-03-20 01:36:26 +0000",
+      "marsh": "2025-03-20 01:35:24 +0000",
       "wooded_scrubland": "2025-03-20 01:02:12 +0000",
       "dense_woodland": "2025-03-20 00:31:05 +0000",
       "shrubland_hills": "2025-03-20 01:31:36 +0000",
+      "dense_marsh": "2025-03-20 01:40:24 +0000",
       "grassland": "2025-03-20 01:33:28 +0000",
       "gravel_beach": "2025-03-20 00:42:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-03-20 01:37:22 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
@@ -925,6 +952,12 @@
   "relics:obtain/squire_bag": {
     "criteria": {
       "obtain_relic": "2025-03-20 01:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-20 01:37:28 +0000"
     },
     "done": true
   },
@@ -1492,9 +1525,11 @@
       "minecraft:forest": "2025-03-19 23:57:46 +0000",
       "minecraft:birch_forest": "2025-03-20 00:41:51 +0000",
       "minecraft:bamboo_jungle": "2025-03-20 00:02:41 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-20 01:43:58 +0000",
       "minecraft:beach": "2025-03-20 01:06:42 +0000",
       "minecraft:river": "2025-03-20 00:29:43 +0000",
-      "minecraft:lukewarm_ocean": "2025-03-20 01:07:33 +0000"
+      "minecraft:lukewarm_ocean": "2025-03-20 01:07:33 +0000",
+      "minecraft:plains": "2025-03-20 01:44:15 +0000"
     },
     "done": false
   },
@@ -1527,6 +1562,12 @@
       "has_planks": "2025-03-20 00:04:02 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_warm": "2025-03-20 01:35:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
@@ -1645,6 +1686,12 @@
   "mysticalworld:recipes/misc/leather_from_rotten_flesh_x2": {
     "criteria": {
       "has_rotten_Flesh": "2025-03-20 00:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-03-20 01:37:28 +0000"
     },
     "done": true
   },

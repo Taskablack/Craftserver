@@ -1885,3 +1885,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Mar2025 01:38:01.618] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10932 in minecraft:the_nether
 [20Mar2025 01:38:01.618] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10932 in minecraft:the_end
 [20Mar2025 01:38:01.660] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10932 in minecraft:overworld
+[20Mar2025 01:41:33.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[20Mar2025 01:41:33.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yasyd<--[HERE]
+[20Mar2025 01:41:48.885] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@60955e52
+[20Mar2025 01:41:48.895] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Taskablack7[/127.71.194.116:42639] logged in with entity id 21024 at (60.429206370131396, 72.0, -836.3897149192494)
+[20Mar2025 01:41:48.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 joined the game
+[20Mar2025 01:41:48.952] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@318d9d6a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Mar2025 01:41:48.952] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6680a773 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[20Mar2025 01:45:20.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Mine? Mine? Mine?]
+[20Mar2025 01:47:23.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [PI-KA-CHU]
