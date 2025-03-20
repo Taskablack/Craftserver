@@ -5,6 +5,445 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-20 22:42:43 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "undead:undeadto": {
+    "criteria": {
+      "undeadto": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:root": {
+    "criteria": {
+      "auto": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool": {
+    "criteria": {
+      "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-20 22:39:09 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/iron_chandelier": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-20 22:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-03-20 22:32:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-20 22:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_pickaxe_smithing": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/bone_pile_1": {
+    "criteria": {
+      "has_bones": "2025-03-20 22:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_carrot_from_smoker": {
+    "criteria": {
+      "has_crops_carrot": "2025-03-20 22:26:35 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_hammer_smithing": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_the_recipe": "2025-03-20 22:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-20 22:32:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/iron_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-03-20 22:30:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_item": "2025-03-20 22:43:09 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/wet_mud_block": {
+    "criteria": {
+      "has_dirt": "2025-03-20 22:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-20 22:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-20 22:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-20 22:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-20 22:27:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "mushroom_stew": "2025-03-20 22:28:56 +0000",
+      "carrot": "2025-03-20 22:27:15 +0000"
+    },
+    "done": false
+  },
+  "betterendforge:recipes/betterendforge/terminite_shovel_smithing": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2025-03-20 22:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-20 22:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/vegetable_juice": {
+    "criteria": {
+      "has_carrot": "2025-03-20 22:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_axe_smithing": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-03-20 22:26:01 +0000"
@@ -14,6 +453,18 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/goblet": {
+    "criteria": {
+      "has_plank": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/boombox": {
+    "criteria": {
+      "has_iron": "2025-03-20 22:34:11 +0000"
     },
     "done": true
   },
@@ -53,21 +504,39 @@
     },
     "done": true
   },
-  "undead:undeadto": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "undeadto": "2025-03-20 22:22:49 +0000"
+      "minecraft:zombie_villager": "2025-03-20 22:38:34 +0000"
     },
     "done": true
   },
-  "mysticalworld:root": {
+  "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
-      "auto": "2025-03-20 22:22:49 +0000"
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool": {
+  "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
     "criteria": {
-      "has_string": "2025-03-20 22:26:01 +0000"
+      "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_axe_smithing": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_hoe_smithing": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/skeleton_top_1": {
+    "criteria": {
+      "has_bones": "2025-03-20 22:35:37 +0000"
     },
     "done": true
   },
@@ -77,27 +546,21 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/umbran_boat": {
+  "betterendforge:recipes/betterendforge/terminite_pickaxe_smithing": {
     "criteria": {
-      "in_water": "2025-03-20 22:24:56 +0000"
+      "has_stick": "2025-03-20 22:39:06 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/willow_boat": {
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
-      "in_water": "2025-03-20 22:24:56 +0000"
+      "has_stick": "2025-03-20 22:39:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "minecraft:recipes/transportation/minecart": {
     "criteria": {
-      "has_string": "2025-03-20 22:26:01 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/palm_boat": {
-    "criteria": {
-      "in_water": "2025-03-20 22:24:56 +0000"
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
     },
     "done": true
   },
@@ -107,21 +570,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-03-20 22:33:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-03-20 22:32:13 +0000"
-    },
-    "done": true
-  },
   "betterendforge:recipes/betterendforge/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/faucet": {
+    "criteria": {
+      "has_item": "2025-03-20 22:34:11 +0000"
     },
     "done": true
   },
@@ -134,27 +591,33 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/campfire": {
+  "minecraft:recipes/redstone/iron_door": {
     "criteria": {
-      "has_coal": "2025-03-20 22:32:46 +0000"
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/redwood_boat": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "in_water": "2025-03-20 22:24:56 +0000"
+      "has_log": "2025-03-20 22:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-03-20 22:22:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/mahogany_boat": {
-    "criteria": {
-      "in_water": "2025-03-20 22:24:56 +0000"
     },
     "done": true
   },
@@ -170,15 +633,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-03-20 22:32:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_hoe_smithing": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
     },
     "done": true
   },
@@ -206,27 +669,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-03-20 22:24:56 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/dead_boat": {
+  "etched:recipes/decorations/radio": {
     "criteria": {
-      "in_water": "2025-03-20 22:24:56 +0000"
+      "has_iron": "2025-03-20 22:34:11 +0000"
     },
     "done": true
   },
-  "mysticalworld:recipes/mysticalworld/cooked_carrot_from_smoker": {
+  "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
-      "has_crops_carrot": "2025-03-20 22:26:35 +0000"
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
+  "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
-      "has_coal": "2025-03-20 22:32:46 +0000"
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fishing_rod": {
+    "criteria": {
+      "has_iron": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-03-20 22:39:06 +0000"
     },
     "done": true
   },
@@ -239,12 +726,6 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-20 22:25:52 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-03-20 22:22:49 +0000"
     },
     "done": true
   },
@@ -266,21 +747,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
-      "in_water": "2025-03-20 22:24:56 +0000"
+      "has_red_flower": "2025-03-20 22:36:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "minecraft:recipes/mysticalworld/iron_knife_from_ingots_iron": {
     "criteria": {
-      "has_golden_axe": "2025-03-20 22:30:43 +0000"
-    },
-    "done": true
-  },
-  "mysticalworld:recipes/mysticalworld/wet_mud_block": {
-    "criteria": {
-      "has_dirt": "2025-03-20 22:25:04 +0000"
+      "has_ingots_iron": "2025-03-20 22:34:11 +0000"
     },
     "done": true
   },
@@ -293,6 +768,24 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/misc/leather_from_rotten_flesh_x1": {
+    "criteria": {
+      "has_rotten_Flesh": "2025-03-20 22:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/skeleton_bottom_1": {
+    "criteria": {
+      "has_bones": "2025-03-20 22:35:37 +0000"
     },
     "done": true
   },
@@ -314,15 +807,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "supplementaries:recipes/speaker_block": {
     "criteria": {
-      "has_mushroom_stew": "2025-03-20 22:27:22 +0000"
+      "has_item": "2025-03-20 22:37:59 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/root": {
+  "mysticalworld:recipes/misc/leather_from_rotten_flesh_x3": {
     "criteria": {
-      "auto": "2025-03-20 22:22:49 +0000"
+      "has_rotten_Flesh": "2025-03-20 22:42:43 +0000"
     },
     "done": true
   },
@@ -332,18 +825,29 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/misc/leather_from_rotten_flesh_x2": {
+    "criteria": {
+      "has_rotten_Flesh": "2025-03-20 22:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie_villager": "2025-03-20 22:38:34 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-03-20 22:22:49 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
-      "mushroom_stew": "2025-03-20 22:28:56 +0000",
-      "carrot": "2025-03-20 22:27:15 +0000"
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
@@ -351,9 +855,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+  "minecraft:recipes/decorations/lantern": {
     "criteria": {
-      "has_smelting_upgrade": "2025-03-20 22:22:49 +0000"
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
     },
     "done": true
   },
@@ -369,21 +873,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
+  "mysticalworld:recipes/mysticalworld/iron_spear": {
     "criteria": {
-      "has_string": "2025-03-20 22:26:01 +0000"
+      "has_iron_sword": "2025-03-20 22:39:06 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_boots": "2025-03-20 22:32:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_black_flower": "2025-03-20 22:31:37 +0000"
     },
     "done": true
   },
@@ -399,15 +897,21 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/magic_boat": {
+  "etched:recipes/decorations/etching_table": {
     "criteria": {
-      "in_water": "2025-03-20 22:24:56 +0000"
+      "has_iron": "2025-03-20 22:34:11 +0000"
     },
     "done": true
   },
-  "mysticalworld:recipes/mysticalworld/vegetable_juice": {
+  "supplementaries:recipes/lock_block": {
     "criteria": {
-      "has_carrot": "2025-03-20 22:26:35 +0000"
+      "has_plank": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-20 22:34:11 +0000"
     },
     "done": true
   },
@@ -429,9 +933,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+  "supplementaries:recipes/pulley_block": {
     "criteria": {
-      "has_leather": "2025-03-20 22:32:13 +0000"
+      "has_plank": "2025-03-20 22:34:11 +0000"
     },
     "done": true
   },
@@ -441,9 +945,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_string": "2025-03-20 22:26:01 +0000"
+      "has_stick": "2025-03-20 22:39:06 +0000"
     },
     "done": true
   },
@@ -453,15 +957,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "has_upgrade_base": "2025-03-20 22:22:49 +0000"
+      "iron": "2025-03-20 22:34:11 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/cherry_boat": {
+  "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
     "criteria": {
-      "in_water": "2025-03-20 22:24:56 +0000"
+      "has_stick": "2025-03-20 22:39:06 +0000"
     },
     "done": true
   },
@@ -471,21 +975,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/fir_boat": {
+  "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
     "criteria": {
-      "in_water": "2025-03-20 22:24:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-03-20 22:32:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-03-20 22:32:13 +0000"
+      "has_stick": "2025-03-20 22:39:06 +0000"
     },
     "done": true
   },

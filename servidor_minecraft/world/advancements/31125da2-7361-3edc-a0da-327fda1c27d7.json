@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-03-20 22:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 22:32:45 +0000"
@@ -146,6 +152,12 @@
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
       "has_gold": "2025-03-20 22:32:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-20 22:40:01 +0000"
     },
     "done": true
   },
@@ -215,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-20 22:33:29 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/peony_cordial": {
     "criteria": {
       "has_first": "2025-03-20 22:12:56 +0000"
@@ -254,7 +272,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-03-20 22:20:53 +0000",
-      "rotten_flesh": "2025-03-20 22:26:44 +0000"
+      "rotten_flesh": "2025-03-20 22:26:44 +0000",
+      "golden_carrot": "2025-03-20 22:40:22 +0000"
     },
     "done": false
   },
@@ -528,6 +547,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-20 22:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:32:28 +0000"
@@ -696,6 +721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-20 22:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-03-20 22:13:37 +0000"
@@ -768,6 +799,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/gold_spear": {
+    "criteria": {
+      "has_golden_sword": "2025-03-20 22:40:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-03-20 22:28:11 +0000"
@@ -807,6 +844,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-03-20 22:28:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-20 22:39:09 +0000"
     },
     "done": true
   },
@@ -870,15 +913,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-20 22:34:23 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-20 22:11:53 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-03-20 22:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 22:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-03-20 22:40:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_item": "2025-03-20 22:35:13 +0000"
     },
     "done": true
   },
@@ -891,6 +958,18 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-03-20 22:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-20 22:34:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-03-20 22:40:01 +0000"
     },
     "done": true
   },
@@ -969,6 +1048,12 @@
   "mysticalworld:recipes/mysticalworld/vegetable_juice": {
     "criteria": {
       "has_carrot": "2025-03-20 22:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-20 22:37:29 +0000"
     },
     "done": true
   },
@@ -1221,6 +1306,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "has_item": "2025-03-20 22:33:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-03-20 22:28:11 +0000"
@@ -1248,6 +1339,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-03-20 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-03-20 22:40:01 +0000"
     },
     "done": true
   },
@@ -1290,6 +1387,12 @@
   "etched:recipes/decorations/etching_table": {
     "criteria": {
       "has_iron": "2025-03-20 22:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-03-20 22:40:42 +0000"
     },
     "done": true
   },

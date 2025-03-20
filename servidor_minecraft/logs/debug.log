@@ -7999,3 +7999,10 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [20Mar2025 22:34:11.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Cover Me With Diamonds]
 [20Mar2025 22:36:28.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Cover Me With Diamonds]
 [20Mar2025 22:37:29.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Isn't It Iron Pick]
+[20Mar2025 22:38:25.154] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:38:25.163] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Mar2025 22:38:34.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Monster Hunter]
+[20Mar2025 22:39:06.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Isn't It Iron Pick]
+[20Mar2025 22:40:01.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Hunt and Gather]
+[20Mar2025 22:43:25.110] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:43:25.118] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
