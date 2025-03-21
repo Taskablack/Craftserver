@@ -17,15 +17,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "has_smelting_upgrade": "2025-03-21 00:08:21 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_easter_egg": {
-    "criteria": {
-      "coded_trigger": "2025-03-21 00:08:21 +0000"
+      "in_water": "2025-03-21 00:19:01 +0000"
     },
     "done": true
   },
@@ -35,15 +29,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-03-21 00:10:45 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-03-21 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-21 00:10:45 +0000"
     },
     "done": true
   },
@@ -65,12 +59,6 @@
     },
     "done": true
   },
-  "rats:rats/root": {
-    "criteria": {
-      "tick": "2025-03-21 00:08:21 +0000"
-    },
-    "done": true
-  },
   "mysticalworld:root": {
     "criteria": {
       "auto": "2025-03-21 00:08:21 +0000"
@@ -89,11 +77,29 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+  "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
-      "has_upgrade_base": "2025-03-21 00:08:21 +0000"
+      "in_water": "2025-03-21 00:19:01 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "tundra": "2025-03-21 00:20:08 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
@@ -104,6 +110,116 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-03-21 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-21 00:10:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-03-21 00:08:21 +0000",
+      "minecraft:taiga": "2025-03-21 00:19:57 +0000",
+      "minecraft:river": "2025-03-21 00:20:04 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "tundra": "2025-03-21 00:20:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-03-21 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-03-21 00:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "rats:rats/root": {
+    "criteria": {
+      "tick": "2025-03-21 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-21 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
     },
     "done": true
   },
@@ -125,9 +241,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "has_iron_chestplate": "2025-03-21 00:10:18 +0000"
+      "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-03-21 00:19:01 +0000"
     },
     "done": true
   },
@@ -136,12 +264,6 @@
       "always": "2025-03-21 00:08:21 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-03-21 00:08:21 +0000"
-    },
-    "done": false
   },
   "DataVersion": 2586
 }

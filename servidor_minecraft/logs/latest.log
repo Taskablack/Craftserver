@@ -22,3 +22,49 @@
 [21Mar2025 00:10:57.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 joined the game
 [21Mar2025 00:11:26.459] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ANDRES45Y lost connection: Disconnected
 [21Mar2025 00:11:26.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y left the game
+[21Mar2025 00:16:27.940] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e512243
+[21Mar2025 00:16:27.945] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ANDRES45Y[/127.224.27.55:40387] logged in with entity id 3574 at (-6.62750759546226, 65.0, 281.5898251699894)
+[21Mar2025 00:16:27.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y joined the game
+[21Mar2025 00:17:43.693] [Server thread/INFO] [Scaling Health/]: Blight Decrepit Skeleton has died
+[21Mar2025 00:19:06.154] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=0, y=63, z=239}
+[21Mar2025 00:19:07.446] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=0, y=63, z=240}
+[21Mar2025 00:19:08.175] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=-1, y=62, z=240}
+[21Mar2025 00:19:18.697] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=0, y=62, z=240}
+[21Mar2025 00:19:18.946] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=0, y=63, z=240}
+[21Mar2025 00:19:30.477] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=0, y=62, z=240}
+[21Mar2025 00:19:31.344] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=0, y=63, z=240}
+[21Mar2025 00:19:31.753] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=0, y=63, z=240}
+[21Mar2025 00:19:31.798] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=0, y=62, z=241}
+[21Mar2025 00:19:33.547] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=0, y=63, z=240}
+[21Mar2025 00:19:33.547] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=0, y=62, z=241}
+[21Mar2025 00:19:33.548] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=1, y=62, z=241}
+[21Mar2025 00:19:36.502] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=0, y=62, z=240}
+[21Mar2025 00:19:37.908] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=-1, y=62, z=241}
+[21Mar2025 00:19:38.155] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=-1, y=62, z=240}
+[21Mar2025 00:19:38.348] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=-1, y=62, z=240}
+[21Mar2025 00:19:38.565] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=-1, y=62, z=240}
+[21Mar2025 00:19:38.756] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=-1, y=62, z=240}
+[21Mar2025 00:19:38.944] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=-1, y=62, z=240}
+[21Mar2025 00:19:53.803] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=281} BlockPos{x=9, y=64, z=216}
+[21Mar2025 00:20:08.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported ANDRES45Y to Kitzune_85]
+[21Mar2025 00:22:14.290] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Kitzune_85 moved too quickly! -2.305192206225229,0.0,9.965471761807976
+[21Mar2025 00:22:39.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Knowledge of Death]
+[21Mar2025 00:22:39.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Easter Food]
+[21Mar2025 00:22:45.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y was slain by Taskablack7
+[21Mar2025 00:22:45.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Your First Grave]
+[21Mar2025 00:22:45.313] [Server thread/INFO] [tombstone/]: The player ANDRES45Y has successfully been saved
+[21Mar2025 00:22:46.857] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Mar2025 00:22:46.857] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Mar2025 00:22:50.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Funeral Theft]
+[21Mar2025 00:23:15.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported ANDRES45Y to Taskablack7]
+[21Mar2025 00:23:20.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has reached the goal [Here They Come]
+[21Mar2025 00:23:43.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y was slain by Taskablack7
+[21Mar2025 00:23:43.263] [Server thread/INFO] [tombstone/]: The player ANDRES45Y has successfully been saved
+[21Mar2025 00:23:44.739] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Mar2025 00:23:44.739] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Mar2025 00:23:47.360] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=64, z=232}
+[21Mar2025 00:23:52.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Funeral Theft]
+[21Mar2025 00:23:52.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has reached the goal [Discreet Search]
+[21Mar2025 00:23:53.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported ANDRES45Y to Kitzune_85]
+[21Mar2025 00:25:50.913] [Server thread/INFO] [Scaling Health/]: Blight Brown Trout was killed by Taskablack7
+[21Mar2025 00:25:54.357] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Taskablack7', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
