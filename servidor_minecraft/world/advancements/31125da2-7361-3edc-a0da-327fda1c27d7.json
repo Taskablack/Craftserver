@@ -665,6 +665,7 @@
       "grassland_clover_patch": "2025-03-21 01:34:35 +0000",
       "redwood_forest_edge": "2025-03-21 01:36:42 +0000",
       "highland": "2025-03-20 22:45:56 +0000",
+      "rainforest_floodplain": "2025-03-21 01:40:22 +0000",
       "snowy_maple_forest": "2025-03-21 00:23:34 +0000",
       "highland_moor": "2025-03-20 22:45:08 +0000",
       "seasonal_forest": "2025-03-20 23:12:50 +0000",
@@ -673,7 +674,8 @@
       "snowy_coniferous_forest": "2025-03-21 00:22:24 +0000",
       "snowy_fir_clearing": "2025-03-21 00:22:39 +0000",
       "tundra": "2025-03-20 23:15:33 +0000",
-      "gravel_beach": "2025-03-20 23:10:28 +0000"
+      "gravel_beach": "2025-03-20 23:10:28 +0000",
+      "rainforest": "2025-03-21 01:38:58 +0000"
     },
     "done": false
   },
@@ -1816,8 +1818,10 @@
       "minecraft:giant_tree_taiga": "2025-03-20 23:11:04 +0000",
       "minecraft:deep_cold_ocean": "2025-03-20 23:10:08 +0000",
       "minecraft:taiga_hills": "2025-03-20 22:14:34 +0000",
+      "minecraft:warm_ocean": "2025-03-21 01:37:34 +0000",
       "minecraft:beach": "2025-03-20 23:05:26 +0000",
       "minecraft:river": "2025-03-20 22:14:15 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-21 01:36:56 +0000",
       "minecraft:giant_tree_taiga_hills": "2025-03-20 23:11:08 +0000"
     },
     "done": false

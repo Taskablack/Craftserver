@@ -189,3 +189,29 @@ java.lang.NullPointerException: null
 [21Mar2025 01:34:53.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Stone Age]
 [21Mar2025 01:36:48.706] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Kitzune_85 moved too quickly! 1.8967791411546386,1.252203340253729,-9.96250214367683
 [21Mar2025 01:37:03.574] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/39263, l='ServerLevel[world]', x=-1978.95, y=66.00, z=2564.28]
+[21Mar2025 01:38:13.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[21Mar2025 01:38:27.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> no hay nada
+[21Mar2025 01:38:34.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> ya vpy
+[21Mar2025 01:38:38.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> ya voy
+[21Mar2025 01:40:33.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> es para allaaa
+[21Mar2025 01:40:35.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> y el kraken
+[21Mar2025 01:40:44.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> para alla
+[21Mar2025 01:40:48.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> sigue
+[21Mar2025 01:40:52.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> te seguimos4
+[21Mar2025 01:43:07.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has reached the goal [Strong or Careful]
+[21Mar2025 01:43:07.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y was slain by Kraken
+[21Mar2025 01:43:07.029] [Server thread/INFO] [tombstone/]: The player ANDRES45Y has successfully been saved
+[21Mar2025 01:43:08.959] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Mar2025 01:43:08.959] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Mar2025 01:43:26.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> tiens cama gato
+[21Mar2025 01:43:39.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> 1
+[21Mar2025 01:44:34.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> q asco oe
+[21Mar2025 01:44:38.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> k
+[21Mar2025 01:44:40.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> el loot creo qeu esta enterrado
+[21Mar2025 01:46:01.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [MANKIND IS DEAD]
+[21Mar2025 01:46:50.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> ya me tengo que ir :(((8
+[21Mar2025 01:46:57.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> oe el loot esta enterrado
+[21Mar2025 01:46:58.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> webadas
+[21Mar2025 01:47:08.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> -1823 1951
+[21Mar2025 01:47:10.177] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Kitzune_85 lost connection: Disconnected
+[21Mar2025 01:47:10.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 left the game
