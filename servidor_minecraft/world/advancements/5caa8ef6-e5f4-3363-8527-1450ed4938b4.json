@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "undead:suckss": {
+    "criteria": {
+      "suckss": "2025-03-21 00:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_the_recipe": "2025-03-20 22:38:51 +0000"
@@ -363,6 +369,12 @@
       "carrot": "2025-03-20 22:27:15 +0000"
     },
     "done": false
+  },
+  "mysticalworld:recipes/decorations/brown_mushroom_block_from_mushrooms": {
+    "criteria": {
+      "has_brown_mushroom": "2025-03-21 00:36:03 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -878,6 +890,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-20 23:07:12 +0000",
+      "minecraft:spider": "2025-03-21 00:41:22 +0000",
+      "minecraft:creeper": "2025-03-21 00:34:23 +0000",
       "minecraft:enderman": "2025-03-20 23:08:03 +0000",
       "minecraft:zombie": "2025-03-20 23:16:23 +0000",
       "minecraft:drowned": "2025-03-20 23:11:14 +0000",
@@ -1082,6 +1096,12 @@
       "has_white_wool": "2025-03-21 00:15:19 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "brown_mushroom": "2025-03-21 00:39:23 +0000"
+    },
+    "done": false
   },
   "betterendforge:recipes/betterendforge/golden_hammer": {
     "criteria": {
@@ -1894,6 +1914,12 @@
   "etched:recipes/decorations/etching_table": {
     "criteria": {
       "has_iron": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/mysticalworld/mushroom_inside_from_smelting": {
+    "criteria": {
+      "has_mushroom": "2025-03-21 00:36:03 +0000"
     },
     "done": true
   },

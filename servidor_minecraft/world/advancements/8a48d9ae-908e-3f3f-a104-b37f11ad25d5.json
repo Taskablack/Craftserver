@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "undead:suckss": {
+    "criteria": {
+      "suckss": "2025-03-21 00:32:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 00:31:37 +0000"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-03-21 00:39:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-03-21 00:24:40 +0000"
@@ -293,6 +305,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-03-21 00:32:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-03-21 00:22:37 +0000"
@@ -326,6 +344,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-03-21 00:22:39 +0000",
+      "apple": "2025-03-21 00:34:10 +0000",
+      "bread": "2025-03-21 00:41:09 +0000",
       "rotten_flesh": "2025-03-21 00:25:44 +0000",
       "golden_carrot": "2025-03-21 00:26:28 +0000"
     },
@@ -511,6 +531,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-21 00:39:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-03-21 00:19:01 +0000"
@@ -550,6 +576,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-21 00:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-21 00:40:55 +0000"
     },
     "done": true
   },
@@ -746,6 +778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-21 00:39:10 +0000"
+    },
+    "done": true
+  },
   "rats:rats/root": {
     "criteria": {
       "tick": "2025-03-21 00:08:21 +0000"
@@ -872,6 +910,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/soft_obsidian": {
+    "criteria": {
+      "has_obsidian": "2025-03-21 00:39:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-03-21 00:08:21 +0000"
@@ -887,6 +931,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-21 00:26:40 +0000",
+      "minecraft:creeper": "2025-03-21 00:31:51 +0000",
       "minecraft:zombie": "2025-03-21 00:10:45 +0000"
     },
     "done": false
@@ -1032,6 +1077,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-03-21 00:31:37 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-03-21 00:39:10 +0000"
     },
     "done": true
   },

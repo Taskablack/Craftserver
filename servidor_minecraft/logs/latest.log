@@ -76,3 +76,16 @@
 [21Mar2025 00:35:37.277] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1778, y=69, z=1005} BlockPos{x=-1780, y=71, z=1004}
 [21Mar2025 00:36:06.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 was slain by Zombie
 [21Mar2025 00:36:06.895] [Server thread/INFO] [tombstone/]: The player Kitzune_85 has successfully been saved
+[21Mar2025 00:36:09.210] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Mar2025 00:36:09.211] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Mar2025 00:37:27.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[21Mar2025 00:37:27.065] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Taskablack7 lost connection: Disconnected
+[21Mar2025 00:37:27.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 left the game
+[21Mar2025 00:39:10.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Ice Bucket Challenge]
+[21Mar2025 00:41:07.701] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/12412, l='ServerLevel[world]', x=-1794.85, y=69.19, z=1057.79]
+[21Mar2025 00:41:07.701] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/12412, l='ServerLevel[world]', x=-1794.85, y=69.19, z=1057.79]
+[21Mar2025 00:41:57.874] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Mar2025 00:41:57.875] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[21Mar2025 00:42:41.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> asi se fueron las esperansas con la elina jajajajajajajaja gato
+[21Mar2025 00:42:51.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> mejor
+[21Mar2025 00:44:20.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
