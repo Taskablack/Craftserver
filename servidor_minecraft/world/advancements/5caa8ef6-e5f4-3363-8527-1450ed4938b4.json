@@ -113,21 +113,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2025-03-21 00:24:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-03-21 00:15:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-03-21 00:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 23:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-03-21 00:52:59 +0000"
     },
     "done": true
   },
@@ -605,6 +611,12 @@
     },
     "done": true
   },
+  "undead:pogg": {
+    "criteria": {
+      "pogg": "2025-03-21 00:56:07 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_pickaxe_smithing": {
     "criteria": {
       "has_stick": "2025-03-20 22:39:06 +0000"
@@ -616,6 +628,7 @@
       "grassland_clover_patch": "2025-03-21 00:43:27 +0000",
       "redwood_forest_edge": "2025-03-21 00:46:24 +0000",
       "highland": "2025-03-20 22:45:53 +0000",
+      "rainforest_floodplain": "2025-03-21 00:52:26 +0000",
       "snowy_maple_forest": "2025-03-21 00:23:46 +0000",
       "highland_moor": "2025-03-20 22:45:09 +0000",
       "seasonal_forest": "2025-03-20 23:12:51 +0000",
@@ -623,7 +636,8 @@
       "snowy_coniferous_forest": "2025-03-21 00:22:25 +0000",
       "snowy_fir_clearing": "2025-03-21 00:22:33 +0000",
       "tundra": "2025-03-20 23:15:20 +0000",
-      "gravel_beach": "2025-03-20 23:10:36 +0000"
+      "gravel_beach": "2025-03-20 23:10:36 +0000",
+      "rainforest": "2025-03-21 00:52:11 +0000"
     },
     "done": false
   },
@@ -903,11 +917,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-03-21 00:52:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-20 23:07:12 +0000",
       "minecraft:spider": "2025-03-21 00:41:22 +0000",
       "minecraft:creeper": "2025-03-21 00:34:23 +0000",
+      "minecraft:slime": "2025-03-21 00:54:33 +0000",
       "minecraft:enderman": "2025-03-20 23:08:03 +0000",
       "minecraft:zombie": "2025-03-20 23:16:23 +0000",
       "minecraft:drowned": "2025-03-20 23:11:14 +0000",
@@ -948,6 +969,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-03-21 00:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-03-21 00:52:59 +0000"
     },
     "done": true
   },
@@ -1600,6 +1627,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-03-21 00:55:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
     "criteria": {
       "has_leather": "2025-03-20 22:32:13 +0000"
@@ -1678,6 +1711,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-03-21 00:52:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-03-20 22:50:21 +0000"
@@ -1706,7 +1745,8 @@
       "minecraft:river": "2025-03-20 22:24:57 +0000",
       "minecraft:lukewarm_ocean": "2025-03-21 00:46:48 +0000",
       "minecraft:wooded_mountains": "2025-03-20 23:15:09 +0000",
-      "minecraft:giant_tree_taiga_hills": "2025-03-20 23:11:39 +0000"
+      "minecraft:giant_tree_taiga_hills": "2025-03-20 23:11:39 +0000",
+      "minecraft:swamp": "2025-03-21 00:54:11 +0000"
     },
     "done": false
   },
@@ -1752,15 +1792,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-03-21 00:24:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-03-21 00:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-03-21 00:24:36 +0000"
     },
     "done": true
   },
@@ -2013,6 +2053,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-03-20 22:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-03-21 00:52:59 +0000"
     },
     "done": true
   },
