@@ -2,3 +2,23 @@
 [21Mar2025 00:00:43.092] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@23fd5181[id=<null>,name=Kitzune_85,properties={},legacy=false] (/127.34.214.59:34867) lost connection: Took too long to log in
 [21Mar2025 00:04:57.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Gave 64 [Radio] to Taskablack7]
 [21Mar2025 00:05:01.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Gave 64 [Cracked Withered Blackstone Slab] to Taskablack7]
+[21Mar2025 00:08:21.549] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2d05d2c
+[21Mar2025 00:08:21.554] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ANDRES45Y[/127.224.27.55:38183] logged in with entity id 2077 at (8.5, 63.0, 225.5)
+[21Mar2025 00:08:21.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y joined the game
+[21Mar2025 00:08:21.557] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] ANDRES45Y first spawned. Set First Dragon to 1
+[21Mar2025 00:08:21.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Easter Egg Searcher]
+[21Mar2025 00:08:21.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Rats]
+[21Mar2025 00:08:21.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Prepair for undeads]
+[21Mar2025 00:10:18.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Suit Up]
+[21Mar2025 00:10:27.355] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7a625275
+[21Mar2025 00:10:27.363] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Kitzune_85[/127.34.214.59:39201] logged in with entity id 2711 at (-1566.2379087091313, 79.17675927506424, 548.7129832154197)
+[21Mar2025 00:10:27.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 joined the game
+[21Mar2025 00:10:39.397] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Kitzune_85 was kicked for floating too long!
+[21Mar2025 00:10:39.448] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Kitzune_85 lost connection: Flying is not enabled on this server
+[21Mar2025 00:10:39.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 left the game
+[21Mar2025 00:10:45.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Monster Hunter]
+[21Mar2025 00:10:57.799] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@cbcbc19
+[21Mar2025 00:10:57.805] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Kitzune_85[/127.34.214.59:53781] logged in with entity id 2850 at (-1566.2379087091313, 79.17675927506424, 548.7129832154197)
+[21Mar2025 00:10:57.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 joined the game
+[21Mar2025 00:11:26.459] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ANDRES45Y lost connection: Disconnected
+[21Mar2025 00:11:26.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y left the game

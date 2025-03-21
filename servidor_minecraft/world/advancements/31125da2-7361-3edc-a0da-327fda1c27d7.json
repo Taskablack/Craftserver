@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-03-21 00:04:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-03-20 22:32:28 +0000"
@@ -206,6 +212,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-20 22:55:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-03-21 00:04:38 +0000"
     },
     "done": true
   },
@@ -1170,6 +1182,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-03-21 00:04:38 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/gold_spear": {
     "criteria": {
       "has_golden_sword": "2025-03-20 22:40:42 +0000"
@@ -2070,6 +2088,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-03-20 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-03-21 00:04:38 +0000"
     },
     "done": true
   },
