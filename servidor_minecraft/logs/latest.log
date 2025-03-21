@@ -168,3 +168,24 @@ java.lang.NullPointerException: null
 [21Mar2025 01:20:54.611] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [21Mar2025 01:26:29.602] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1902, y=73, z=1867} BlockPos{x=-1901, y=72, z=1867}
 [21Mar2025 01:26:56.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Best Friends Forever]
+[21Mar2025 01:27:40.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> el kraken loko
+[21Mar2025 01:30:04.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> donde
+[21Mar2025 01:30:07.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> recien llego
+[21Mar2025 01:30:31.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> -1800 2169
+[21Mar2025 01:30:33.709] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@355c960f
+[21Mar2025 01:30:33.719] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Taskablack7[/127.151.0.213:50875] logged in with entity id 30976 at (-1570.1169160435873, 65.0, 798.9921601654828)
+[21Mar2025 01:30:33.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 joined the game
+[21Mar2025 01:30:33.784] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@588bda8a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[21Mar2025 01:30:33.784] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@7e0c66dd (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[21Mar2025 01:30:52.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> voy
+[21Mar2025 01:31:21.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[21Mar2025 01:31:47.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[21Mar2025 01:34:36.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 was slain by Dread Hound
+[21Mar2025 01:34:36.699] [Server thread/INFO] [tombstone/]: The player Kitzune_85 has successfully been saved
+[21Mar2025 01:34:37.989] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Mar2025 01:34:37.990] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Mar2025 01:34:49.895] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/36987, l='ServerLevel[world]', x=-1790.42, y=72.00, z=1299.74]
+[21Mar2025 01:34:51.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Isn't It Iron Pick]
+[21Mar2025 01:34:53.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Stone Age]
+[21Mar2025 01:36:48.706] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Kitzune_85 moved too quickly! 1.8967791411546386,1.252203340253729,-9.96250214367683
+[21Mar2025 01:37:03.574] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/39263, l='ServerLevel[world]', x=-1978.95, y=66.00, z=2564.28]

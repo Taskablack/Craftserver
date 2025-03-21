@@ -401,6 +401,7 @@
       "porkchop": "2025-03-20 23:16:48 +0000",
       "apple": "2025-03-20 23:09:35 +0000",
       "bread": "2025-03-20 23:03:36 +0000",
+      "golden_apple": "2025-03-21 01:34:07 +0000",
       "rotten_flesh": "2025-03-20 22:26:44 +0000",
       "golden_carrot": "2025-03-20 22:40:22 +0000",
       "carrot": "2025-03-20 23:17:46 +0000"
@@ -661,11 +662,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "grassland_clover_patch": "2025-03-21 01:34:35 +0000",
+      "redwood_forest_edge": "2025-03-21 01:36:42 +0000",
       "highland": "2025-03-20 22:45:56 +0000",
       "snowy_maple_forest": "2025-03-21 00:23:34 +0000",
       "highland_moor": "2025-03-20 22:45:08 +0000",
       "seasonal_forest": "2025-03-20 23:12:50 +0000",
       "highland_crag": "2025-03-20 22:58:31 +0000",
+      "grassland": "2025-03-21 01:34:15 +0000",
       "snowy_coniferous_forest": "2025-03-21 00:22:24 +0000",
       "snowy_fir_clearing": "2025-03-21 00:22:39 +0000",
       "tundra": "2025-03-20 23:15:33 +0000",
@@ -1080,6 +1084,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-20 22:13:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-03-21 01:34:50 +0000"
     },
     "done": true
   },

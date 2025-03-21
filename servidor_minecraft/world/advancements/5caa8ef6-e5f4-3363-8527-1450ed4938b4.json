@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2025-03-21 01:29:08 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:root": {
     "criteria": {
       "auto": "2025-03-20 22:22:49 +0000"
@@ -254,6 +260,12 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-03-20 22:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-21 01:34:45 +0000"
     },
     "done": true
   },
@@ -473,9 +485,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-21 01:34:35 +0000"
+    },
+    "done": true
+  },
   "undead:moony": {
     "criteria": {
       "moony": "2025-03-20 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-21 01:34:45 +0000"
     },
     "done": true
   },
@@ -506,6 +530,12 @@
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-21 01:34:45 +0000"
     },
     "done": true
   },
@@ -548,6 +578,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-21 01:34:45 +0000"
     },
     "done": true
   },
@@ -623,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-21 01:34:35 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_pickaxe_smithing": {
     "criteria": {
       "has_stick": "2025-03-20 22:39:06 +0000"
@@ -639,6 +681,7 @@
       "redwood_forest": "2025-03-21 01:25:00 +0000",
       "highland_moor": "2025-03-20 22:45:09 +0000",
       "seasonal_forest": "2025-03-20 23:12:51 +0000",
+      "rainforest_cliffs": "2025-03-21 01:32:09 +0000",
       "grassland": "2025-03-21 00:43:12 +0000",
       "snowy_coniferous_forest": "2025-03-21 00:22:25 +0000",
       "snowy_fir_clearing": "2025-03-21 00:22:33 +0000",
@@ -723,6 +766,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-20 22:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-21 01:34:35 +0000"
     },
     "done": true
   },
@@ -819,6 +868,12 @@
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_iron": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_orange_cosmos": {
+    "criteria": {
+      "has_flower": "2025-03-21 01:28:11 +0000"
     },
     "done": true
   },
@@ -1123,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-21 01:26:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-03-20 23:12:32 +0000"
@@ -1132,6 +1193,12 @@
   "mysticalworld:recipes/mysticalworld/antler_hat": {
     "criteria": {
       "has_antlers": "2025-03-20 22:52:55 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/blank_music_disc": {
+    "criteria": {
+      "has_music_disc": "2025-03-21 01:34:34 +0000"
     },
     "done": true
   },
@@ -1147,6 +1214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-21 01:34:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-03-21 00:50:26 +0000",
@@ -1157,6 +1230,12 @@
   "betterendforge:recipes/betterendforge/golden_hammer": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 23:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-21 01:34:45 +0000"
     },
     "done": true
   },
@@ -1361,6 +1440,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-03-20 22:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-21 01:34:45 +0000"
     },
     "done": true
   },
@@ -1742,9 +1827,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-21 01:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-03-20 23:06:22 +0000",
+      "minecraft:jungle_edge": "2025-03-21 01:33:31 +0000",
       "minecraft:forest": "2025-03-20 22:22:49 +0000",
       "minecraft:mountains": "2025-03-20 23:13:16 +0000",
       "minecraft:taiga": "2025-03-20 22:25:31 +0000",
@@ -1752,6 +1844,7 @@
       "minecraft:deep_cold_ocean": "2025-03-20 23:10:14 +0000",
       "minecraft:taiga_hills": "2025-03-20 22:25:01 +0000",
       "minecraft:jungle": "2025-03-21 00:47:33 +0000",
+      "minecraft:jungle_hills": "2025-03-21 01:33:09 +0000",
       "minecraft:bamboo_jungle": "2025-03-21 00:50:48 +0000",
       "minecraft:warm_ocean": "2025-03-21 01:25:27 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-21 00:47:11 +0000",
@@ -1815,6 +1908,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-03-21 00:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-21 01:34:35 +0000"
     },
     "done": true
   },
@@ -2073,6 +2172,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-03-21 00:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-21 01:34:45 +0000"
     },
     "done": true
   },
