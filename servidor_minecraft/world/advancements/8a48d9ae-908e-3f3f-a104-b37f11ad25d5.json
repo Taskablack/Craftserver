@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_item": "2025-03-21 00:49:47 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:root": {
     "criteria": {
       "auto": "2025-03-21 00:08:21 +0000"
@@ -104,6 +110,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-21 00:49:47 +0000"
     },
     "done": true
   },
@@ -248,6 +260,12 @@
   "aquaculture:recipes/tools/wooden_fillet_knife": {
     "criteria": {
       "has_items": "2025-03-21 00:24:40 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/wet_mud_block": {
+    "criteria": {
+      "has_dirt": "2025-03-21 00:50:37 +0000"
     },
     "done": true
   },
@@ -489,6 +507,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_plank": "2025-03-21 00:49:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron": "2025-03-21 00:31:37 +0000"
@@ -665,10 +689,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "grassland_clover_patch": "2025-03-21 00:43:24 +0000",
+      "redwood_forest_edge": "2025-03-21 00:46:16 +0000",
       "snowy_maple_forest": "2025-03-21 00:23:35 +0000",
+      "grassland": "2025-03-21 00:43:10 +0000",
       "snowy_coniferous_forest": "2025-03-21 00:22:15 +0000",
       "snowy_fir_clearing": "2025-03-21 00:22:24 +0000",
-      "tundra": "2025-03-21 00:20:08 +0000"
+      "tundra": "2025-03-21 00:20:08 +0000",
+      "gravel_beach": "2025-03-21 00:42:02 +0000"
     },
     "done": false
   },
@@ -696,7 +724,12 @@
       "minecraft:taiga": "2025-03-21 00:19:57 +0000",
       "minecraft:giant_tree_taiga": "2025-03-21 00:25:53 +0000",
       "minecraft:taiga_hills": "2025-03-21 00:23:10 +0000",
-      "minecraft:river": "2025-03-21 00:20:04 +0000"
+      "minecraft:jungle": "2025-03-21 00:47:26 +0000",
+      "minecraft:bamboo_jungle": "2025-03-21 00:49:46 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-21 00:47:07 +0000",
+      "minecraft:beach": "2025-03-21 00:46:30 +0000",
+      "minecraft:river": "2025-03-21 00:20:04 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-21 00:46:44 +0000"
     },
     "done": false
   },
@@ -993,6 +1026,12 @@
   "mysticalworld:recipes/mysticalworld/iron_spear": {
     "criteria": {
       "has_iron_sword": "2025-03-21 00:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-21 00:49:47 +0000"
     },
     "done": true
   },

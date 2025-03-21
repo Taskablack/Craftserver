@@ -361,6 +361,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-03-21 00:42:27 +0000",
       "apple": "2025-03-20 23:52:19 +0000",
       "golden_apple": "2025-03-21 00:19:11 +0000",
       "rotten_flesh": "2025-03-20 23:11:31 +0000",
@@ -481,6 +482,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-03-21 00:15:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_plank": "2025-03-21 00:47:42 +0000"
     },
     "done": true
   },
@@ -606,10 +613,13 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "grassland_clover_patch": "2025-03-21 00:43:27 +0000",
+      "redwood_forest_edge": "2025-03-21 00:46:24 +0000",
       "highland": "2025-03-20 22:45:53 +0000",
       "snowy_maple_forest": "2025-03-21 00:23:46 +0000",
       "highland_moor": "2025-03-20 22:45:09 +0000",
       "seasonal_forest": "2025-03-20 23:12:51 +0000",
+      "grassland": "2025-03-21 00:43:12 +0000",
       "snowy_coniferous_forest": "2025-03-21 00:22:25 +0000",
       "snowy_fir_clearing": "2025-03-21 00:22:33 +0000",
       "tundra": "2025-03-20 23:15:20 +0000",
@@ -746,6 +756,12 @@
   "rats:rats/root": {
     "criteria": {
       "tick": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-03-21 00:49:52 +0000"
     },
     "done": true
   },
@@ -1099,6 +1115,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sweet_berries": "2025-03-21 00:50:26 +0000",
       "brown_mushroom": "2025-03-21 00:39:23 +0000"
     },
     "done": false
@@ -1124,6 +1141,12 @@
   "undead:undeadto": {
     "criteria": {
       "undeadto": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_item": "2025-03-21 00:47:42 +0000"
     },
     "done": true
   },
@@ -1208,6 +1231,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-20 22:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-21 00:47:42 +0000"
     },
     "done": true
   },
@@ -1670,8 +1699,12 @@
       "minecraft:giant_tree_taiga": "2025-03-20 23:11:34 +0000",
       "minecraft:deep_cold_ocean": "2025-03-20 23:10:14 +0000",
       "minecraft:taiga_hills": "2025-03-20 22:25:01 +0000",
+      "minecraft:jungle": "2025-03-21 00:47:33 +0000",
+      "minecraft:bamboo_jungle": "2025-03-21 00:50:48 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-21 00:47:11 +0000",
       "minecraft:beach": "2025-03-20 23:05:28 +0000",
       "minecraft:river": "2025-03-20 22:24:57 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-21 00:46:48 +0000",
       "minecraft:wooded_mountains": "2025-03-20 23:15:09 +0000",
       "minecraft:giant_tree_taiga_hills": "2025-03-20 23:11:39 +0000"
     },
@@ -1902,6 +1935,12 @@
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_item": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-21 00:47:42 +0000"
     },
     "done": true
   },

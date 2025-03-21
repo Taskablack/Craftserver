@@ -7991,3 +7991,24 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [21Mar2025 00:42:41.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> asi se fueron las esperansas con la elina jajajajajajajaja gato
 [21Mar2025 00:42:51.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> mejor
 [21Mar2025 00:44:20.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[21Mar2025 00:46:44.072] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Mar2025 00:46:44.079] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Mar2025 00:48:41.079] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[21Mar2025 00:48:41.204] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[21Mar2025 00:48:41.204] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[21Mar2025 00:48:41.211] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[21Mar2025 00:48:41.211] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[21Mar2025 00:48:41.292] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[21Mar2025 00:48:41.292] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[21Mar2025 00:48:41.425] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[21Mar2025 00:48:41.425] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[21Mar2025 00:48:41.434] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[21Mar2025 00:48:41.435] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[21Mar2025 00:48:41.483] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[21Mar2025 00:48:41.483] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[21Mar2025 00:49:52.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Jennifer Dumped Me]
+[21Mar2025 00:49:56.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kitzune_85> xd
+[21Mar2025 00:51:43.974] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Mar2025 00:51:43.981] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Mar2025 00:55:01.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Chompy]
+[21Mar2025 00:56:07.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has completed the challenge [Full counter]
