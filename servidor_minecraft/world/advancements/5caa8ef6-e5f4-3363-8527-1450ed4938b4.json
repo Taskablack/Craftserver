@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 01:19:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 23:06:39 +0000"
@@ -630,6 +636,7 @@
       "highland": "2025-03-20 22:45:53 +0000",
       "rainforest_floodplain": "2025-03-21 00:52:26 +0000",
       "snowy_maple_forest": "2025-03-21 00:23:46 +0000",
+      "redwood_forest": "2025-03-21 01:25:00 +0000",
       "highland_moor": "2025-03-20 22:45:09 +0000",
       "seasonal_forest": "2025-03-20 23:12:51 +0000",
       "grassland": "2025-03-21 00:43:12 +0000",
@@ -1669,6 +1676,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-03-21 01:24:03 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_axe_smithing": {
     "criteria": {
       "has_stick": "2025-03-20 22:39:06 +0000"
@@ -1740,6 +1753,7 @@
       "minecraft:taiga_hills": "2025-03-20 22:25:01 +0000",
       "minecraft:jungle": "2025-03-21 00:47:33 +0000",
       "minecraft:bamboo_jungle": "2025-03-21 00:50:48 +0000",
+      "minecraft:warm_ocean": "2025-03-21 01:25:27 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-21 00:47:11 +0000",
       "minecraft:beach": "2025-03-20 23:05:28 +0000",
       "minecraft:river": "2025-03-20 22:24:57 +0000",
