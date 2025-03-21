@@ -68,3 +68,11 @@
 [21Mar2025 00:23:53.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported ANDRES45Y to Kitzune_85]
 [21Mar2025 00:25:50.913] [Server thread/INFO] [Scaling Health/]: Blight Brown Trout was killed by Taskablack7
 [21Mar2025 00:25:54.357] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='Taskablack7', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[21Mar2025 00:31:37.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Acquire Hardware]
+[21Mar2025 00:32:04.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [A Strange Grave Dust]
+[21Mar2025 00:32:26.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Suckers]
+[21Mar2025 00:32:38.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Suckers]
+[21Mar2025 00:34:54.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Suckers]
+[21Mar2025 00:35:37.277] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1778, y=69, z=1005} BlockPos{x=-1780, y=71, z=1004}
+[21Mar2025 00:36:06.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 was slain by Zombie
+[21Mar2025 00:36:06.895] [Server thread/INFO] [tombstone/]: The player Kitzune_85 has successfully been saved

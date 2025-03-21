@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-03-21 00:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-03-21 00:15:19 +0000"
@@ -329,9 +335,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-21 00:25:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2025-03-21 00:24:36 +0000"
     },
     "done": true
   },
@@ -385,6 +403,12 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_plank": "2025-03-20 23:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/mysticalworld/wood_knife_from_planks": {
+    "criteria": {
+      "has_planks": "2025-03-21 00:24:36 +0000"
     },
     "done": true
   },
@@ -502,6 +526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-21 00:24:36 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/cooked_carrot": {
     "criteria": {
       "has_crops_carrot": "2025-03-20 22:26:35 +0000"
@@ -565,8 +595,11 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2025-03-20 22:45:53 +0000",
+      "snowy_maple_forest": "2025-03-21 00:23:46 +0000",
       "highland_moor": "2025-03-20 22:45:09 +0000",
       "seasonal_forest": "2025-03-20 23:12:51 +0000",
+      "snowy_coniferous_forest": "2025-03-21 00:22:25 +0000",
+      "snowy_fir_clearing": "2025-03-21 00:22:33 +0000",
       "tundra": "2025-03-20 23:15:20 +0000",
       "gravel_beach": "2025-03-20 23:10:36 +0000"
     },
@@ -686,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-21 00:24:36 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/cooked_carrot_from_campfire": {
     "criteria": {
       "has_crops_carrot": "2025-03-20 22:26:35 +0000"
@@ -767,6 +806,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-03-20 22:27:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 00:23:52 +0000"
     },
     "done": true
   },
@@ -936,6 +981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-21 00:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-20 22:24:56 +0000"
@@ -981,6 +1032,12 @@
   "mysticalworld:recipes/misc/shaped_book_with_string": {
     "criteria": {
       "has_string": "2025-03-20 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-21 00:24:36 +0000"
     },
     "done": true
   },
@@ -1302,6 +1359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-21 00:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:34:11 +0000"
@@ -1380,9 +1443,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-21 00:24:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-21 00:16:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "has_item": "2025-03-21 00:24:36 +0000"
     },
     "done": true
   },
@@ -1431,6 +1506,18 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-20 23:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-03-21 00:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-21 00:24:36 +0000"
     },
     "done": true
   },
@@ -1494,6 +1581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-21 00:24:36 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_axe_smithing": {
     "criteria": {
       "has_stick": "2025-03-20 22:39:06 +0000"
@@ -1515,6 +1608,12 @@
   "betterendforge:recipes/betterendforge/thallasium_hoe_smithing": {
     "criteria": {
       "has_stick": "2025-03-20 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2025-03-21 00:24:36 +0000"
     },
     "done": true
   },
@@ -1600,6 +1699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-03-21 00:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-03-21 00:16:20 +0000"
@@ -1615,6 +1720,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-21 00:24:36 +0000"
     },
     "done": true
   },
@@ -1651,6 +1762,12 @@
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_item": "2025-03-20 23:06:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 00:23:52 +0000"
     },
     "done": true
   },
