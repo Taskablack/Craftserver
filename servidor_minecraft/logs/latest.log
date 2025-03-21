@@ -137,3 +137,10 @@ java.lang.NullPointerException: null
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [21Mar2025 01:01:37.541] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Kitzune_85 lost connection: Timed out
 [21Mar2025 01:01:37.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 left the game
+[21Mar2025 01:11:40.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[21Mar2025 01:11:40.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jasod<--[HERE]
+[21Mar2025 01:15:54.900] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4051d979
+[21Mar2025 01:15:54.908] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Kitzune_85[/127.34.214.59:45807] logged in with entity id 23644 at (-2066.699999988079, 63.95327914164065, 2566.3826879242156)
+[21Mar2025 01:15:54.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 joined the game
+[21Mar2025 01:16:59.217] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Mar2025 01:16:59.217] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
