@@ -498,6 +498,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 00:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-03-20 22:48:48 +0000"
@@ -820,6 +826,12 @@
   "rats:rats/root": {
     "criteria": {
       "tick": "2025-03-20 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-03-23 00:17:14 +0000"
     },
     "done": true
   },
@@ -1818,6 +1830,7 @@
       "minecraft:giant_tree_taiga": "2025-03-20 23:11:04 +0000",
       "minecraft:deep_cold_ocean": "2025-03-20 23:10:08 +0000",
       "minecraft:taiga_hills": "2025-03-20 22:14:34 +0000",
+      "minecraft:jungle": "2025-03-23 00:19:43 +0000",
       "minecraft:warm_ocean": "2025-03-21 01:37:34 +0000",
       "minecraft:beach": "2025-03-20 23:05:26 +0000",
       "minecraft:river": "2025-03-20 22:14:15 +0000",
