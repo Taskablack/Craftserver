@@ -2198,3 +2198,108 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [23Mar2025 00:54:40.396] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@11e31c90 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [23Mar2025 00:54:40.397] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@600f2903 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [23Mar2025 00:55:29.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to -1907.5, 87.5, 3091.5]
+[23Mar2025 00:56:04.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Diamonds!]
+[23Mar2025 00:57:46.111] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@12767d39
+[23Mar2025 00:57:46.124] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ANDRES45Y[/127.224.27.55:60471] logged in with entity id 5194 at (-302.97640374641054, 100.0, 423.69999998807907)
+[23Mar2025 00:57:46.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y joined the game
+[23Mar2025 00:57:46.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has reached the goal [Easter]
+[23Mar2025 00:58:16.422] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ANDRES45Y lost connection: Timed out
+[23Mar2025 00:58:16.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y left the game
+[23Mar2025 00:58:16.468] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[23Mar2025 00:58:49.155] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@76cdaabd
+[23Mar2025 00:58:49.164] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ANDRES45Y[/127.224.27.55:48433] logged in with entity id 5611 at (-302.97640374641054, 100.0, 423.69999998807907)
+[23Mar2025 00:58:49.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y joined the game
+[23Mar2025 00:59:40.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> chino dame admin para ir a mi loot
+[23Mar2025 00:59:47.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> estaba en el kraken
+[23Mar2025 01:00:01.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> responde
+[23Mar2025 01:00:04.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Taskablack7> no}
+[23Mar2025 01:00:08.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> :c
+[23Mar2025 01:00:14.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> mueve oe
+[23Mar2025 01:00:22.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> porque estas con la gampi en la boca
+[23Mar2025 01:00:25.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Made ANDRES45Y a server operator]
+[23Mar2025 01:00:25.026] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@11e31c90 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:00:25.027] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@600f2903 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:00:37.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to ANDRES45Y]
+[23Mar2025 01:00:53.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ANDRES45Y: Teleported ANDRES45Y to -1869.5, 47.5, 1913.5]
+[23Mar2025 01:01:00.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y was slain by Kraken
+[23Mar2025 01:01:00.047] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[23Mar2025 01:01:00.048] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[23Mar2025 01:01:00.048] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[23Mar2025 01:01:00.048] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[23Mar2025 01:01:00.048] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[23Mar2025 01:01:00.048] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[23Mar2025 01:01:00.049] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[23Mar2025 01:01:00.049] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[23Mar2025 01:01:00.049] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[23Mar2025 01:01:00.049] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[23Mar2025 01:01:00.049] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[23Mar2025 01:01:00.049] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[23Mar2025 01:01:00.050] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[23Mar2025 01:01:00.050] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[23Mar2025 01:01:00.051] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[23Mar2025 01:01:00.063] [Server thread/INFO] [tombstone/]: The player ANDRES45Y could not be saved
+[23Mar2025 01:01:00.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to ANDRES45Y]
+[23Mar2025 01:01:04.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> porque no hablas
+[23Mar2025 01:01:05.994] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[23Mar2025 01:01:05.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 was slain by Kraken
+[23Mar2025 01:01:05.994] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[23Mar2025 01:01:05.994] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[23Mar2025 01:01:05.995] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[23Mar2025 01:01:05.995] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[23Mar2025 01:01:05.996] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[23Mar2025 01:01:05.996] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[23Mar2025 01:01:05.996] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[23Mar2025 01:01:05.996] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[23Mar2025 01:01:05.996] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[23Mar2025 01:01:05.996] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[23Mar2025 01:01:05.997] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[23Mar2025 01:01:05.997] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[23Mar2025 01:01:05.998] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[23Mar2025 01:01:05.998] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[23Mar2025 01:01:06.007] [Server thread/INFO] [tombstone/]: The player Taskablack7 could not be saved
+[23Mar2025 01:01:06.294] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Mar2025 01:01:06.295] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Mar2025 01:01:06.306] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@11e31c90 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:01:06.306] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@600f2903 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:01:07.534] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Mar2025 01:01:07.534] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Mar2025 01:01:07.545] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@11e31c90 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:01:07.545] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@600f2903 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:01:11.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Knowledge raises the soul]
+[23Mar2025 01:01:21.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to -1871.5, 57.5, 1907.5]
+[23Mar2025 01:01:32.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ANDRES45Y: Teleported ANDRES45Y to -1869.5, 47.5, 1913.5]
+[23Mar2025 01:01:34.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has reached the goal [Chain Death]
+[23Mar2025 01:01:34.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y was slain by Kraken
+[23Mar2025 01:01:34.407] [Server thread/INFO] [tombstone/]: The player ANDRES45Y has successfully been saved
+[23Mar2025 01:01:40.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ANDRES45Y: Teleported ANDRES45Y to Taskablack7]
+[23Mar2025 01:01:49.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has reached the goal [Chain Death]
+[23Mar2025 01:01:49.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 was slain by Kraken
+[23Mar2025 01:01:49.408] [Server thread/INFO] [tombstone/]: The player Taskablack7 has successfully been saved
+[23Mar2025 01:01:49.600] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ANDRES45Y lost connection: Timed out
+[23Mar2025 01:01:49.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y left the game
+[23Mar2025 01:01:50.750] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Mar2025 01:01:50.750] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Mar2025 01:01:50.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [The Most Useful Key]
+[23Mar2025 01:01:50.761] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@11e31c90 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:01:50.761] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@600f2903 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:01:55.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has reached the goal [A Fast Comeback]
+[23Mar2025 01:02:09.504] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5e7a9903
+[23Mar2025 01:02:09.512] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ANDRES45Y[/127.224.27.55:33475] logged in with entity id 8792 at (-1866.8862704855585, 49.579154900011645, 1907.716972160766)
+[23Mar2025 01:02:09.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y joined the game
+[23Mar2025 01:02:09.572] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@11e31c90 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:02:09.572] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@600f2903 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:02:27.836] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Mar2025 01:02:27.837] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Mar2025 01:02:27.846] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@11e31c90 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:02:27.846] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@600f2903 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:02:40.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ANDRES45Y: Teleported ANDRES45Y to -1866.5, 49.5, 1907.5]
+[23Mar2025 01:03:04.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> estas en lugar seguro
+[23Mar2025 01:04:29.153] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ANDRES45Y lost connection: Disconnected
+[23Mar2025 01:04:29.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y left the game
+[23Mar2025 01:04:34.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Take Aim]
+[23Mar2025 01:04:51.505] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6a3cfa04
+[23Mar2025 01:04:51.512] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ANDRES45Y[/127.224.27.55:59125] logged in with entity id 9635 at (-1819.628912153488, 63.0, 1958.4844094179066)
+[23Mar2025 01:04:51.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y joined the game
+[23Mar2025 01:04:51.568] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@11e31c90 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:04:51.568] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@600f2903 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[23Mar2025 01:05:20.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> mira mi pin
