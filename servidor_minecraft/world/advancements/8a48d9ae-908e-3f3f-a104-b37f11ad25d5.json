@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/mysticalworld/gold_knife_from_ingots_gold": {
+    "criteria": {
+      "has_ingots_gold": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-03-21 00:19:01 +0000"
@@ -68,6 +74,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:33 +0000"
     },
     "done": true
   },
@@ -125,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-03-21 01:41:59 +0000"
@@ -161,6 +179,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_plank": "2025-03-23 01:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-23 01:10:19 +0000"
@@ -176,6 +206,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-03-21 00:24:40 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_gold": "2025-03-23 01:35:35 +0000"
     },
     "done": true
   },
@@ -224,6 +260,12 @@
   "betterendforge:recipes/betterendforge/terminite_hammer_smithing": {
     "criteria": {
       "has_stick": "2025-03-21 00:24:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candelabra": {
+    "criteria": {
+      "has_item": "2025-03-23 01:35:35 +0000"
     },
     "done": true
   },
@@ -317,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-03-21 00:22:37 +0000"
@@ -370,6 +418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:35:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 00:31:37 +0000"
@@ -400,6 +454,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:35:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_plank": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/mysticalworld/wood_knife_from_planks": {
     "criteria": {
       "has_planks": "2025-03-21 00:24:37 +0000"
@@ -415,6 +481,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 00:31:37 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-03-23 01:35:35 +0000"
     },
     "done": true
   },
@@ -526,6 +598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-23 01:10:19 +0000"
@@ -574,6 +652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:33 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
     "criteria": {
       "has_stick": "2025-03-21 00:24:40 +0000"
@@ -583,6 +667,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
     },
     "done": true
   },
@@ -676,6 +766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-03-23 01:10:01 +0000"
@@ -724,6 +820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/eat_easter_egg_food": {
     "criteria": {
       "coded_trigger": "2025-03-21 00:22:39 +0000"
@@ -733,6 +835,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-03-21 00:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:33 +0000"
     },
     "done": true
   },
@@ -751,6 +859,12 @@
   "rats:rats/root": {
     "criteria": {
       "tick": "2025-03-21 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:33 +0000"
     },
     "done": true
   },
@@ -844,6 +958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:35:06 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/skeleton_bottom_1": {
     "criteria": {
       "has_bones": "2025-03-21 00:26:40 +0000"
@@ -918,6 +1038,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_jungle": {
+    "criteria": {
+      "has_plank": "2025-03-23 01:35:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-03-23 01:10:01 +0000"
@@ -984,6 +1110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-23 01:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-21 00:24:37 +0000"
@@ -1014,6 +1146,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/gold_chandelier": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-21 00:24:37 +0000"
@@ -1035,6 +1173,12 @@
   "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
     "criteria": {
       "has_stick": "2025-03-21 00:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
     },
     "done": true
   },
@@ -1062,6 +1206,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/golden_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
     "criteria": {
       "has_stick": "2025-03-21 00:24:40 +0000"
@@ -1071,6 +1221,12 @@
   "undead:mminkend": {
     "criteria": {
       "mminkend": "2025-03-21 01:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:35:06 +0000"
     },
     "done": true
   },
@@ -1089,6 +1245,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
     },
     "done": true
   },
@@ -1170,6 +1332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:33 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-21 00:08:21 +0000"
@@ -1179,6 +1347,12 @@
   "supplementaries:recipes/hanging_sign_spruce": {
     "criteria": {
       "has_plank": "2025-03-21 00:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
     },
     "done": true
   },
@@ -1254,6 +1428,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-23 01:35:06 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/blackened_stone": {
+    "criteria": {
+      "has_stone": "2025-03-23 01:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_item": "2025-03-21 01:35:59 +0000"
@@ -1281,6 +1473,12 @@
   "scalinghealth:recipes/scalinghealth/heart_crystal": {
     "criteria": {
       "cobblestone": "2025-03-21 01:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
     },
     "done": true
   },
@@ -1332,6 +1530,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/mysticalworld/stone_knife_from_stone": {
+    "criteria": {
+      "has_stone": "2025-03-23 01:39:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_plank": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "has_item": "2025-03-21 01:34:53 +0000"
@@ -1347,6 +1557,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-21 01:34:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_plank": "2025-03-23 01:35:35 +0000"
     },
     "done": true
   },
@@ -1458,6 +1674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:35:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-03-21 00:10:18 +0000"
@@ -1506,6 +1728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_hoe_smithing": {
     "criteria": {
       "has_stick": "2025-03-21 00:24:40 +0000"
@@ -1521,6 +1749,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2025-03-23 01:13:05 +0000"
+    },
+    "done": true
+  },
+  "oresabovediamonds:main/find_amethyst": {
+    "criteria": {
+      "found_amethyst": "2025-03-23 01:35:51 +0000"
     },
     "done": true
   },
@@ -1551,6 +1785,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-03-21 01:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2025-03-23 01:39:33 +0000"
     },
     "done": true
   },
@@ -1660,9 +1900,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_item": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_slab": {
     "criteria": {
       "has_planks": "2025-03-23 01:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:35:06 +0000"
     },
     "done": true
   },
@@ -1675,6 +1927,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 00:31:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
     },
     "done": true
   },
@@ -1696,6 +1954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:33 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-03-21 00:08:21 +0000"
@@ -1708,9 +1972,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:35:06 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/misc/leather_from_rotten_flesh_x2": {
     "criteria": {
       "has_rotten_Flesh": "2025-03-21 00:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-03-23 01:34:53 +0000"
     },
     "done": true
   },
@@ -1720,9 +1996,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:35:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-03-21 01:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 01:35:35 +0000"
     },
     "done": true
   },
@@ -1795,6 +2083,18 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:33 +0000"
     },
     "done": true
   },

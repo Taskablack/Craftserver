@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:09 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
     "criteria": {
       "has_stick": "2025-03-20 22:19:14 +0000"
@@ -473,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:09 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/cooked_carrot_from_campfire": {
     "criteria": {
       "has_crops_carrot": "2025-03-20 22:27:29 +0000"
@@ -530,6 +542,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-20 22:20:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holder": {
+    "criteria": {
+      "has_item": "2025-03-23 01:34:41 +0000"
     },
     "done": true
   },
@@ -678,6 +696,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-23 01:34:37 +0000"
     },
     "done": true
   },
@@ -951,6 +975,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/iron_brick": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-23 01:34:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:32:28 +0000"
@@ -1161,6 +1191,12 @@
     },
     "done": true
   },
+  "oresabovediamonds:main/find_amethyst": {
+    "criteria": {
+      "found_amethyst": "2025-03-23 01:35:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_plank": "2025-03-20 23:20:50 +0000"
@@ -1308,6 +1344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-03-23 01:34:37 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-03-20 22:11:53 +0000"
@@ -1380,9 +1422,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-20 22:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:09 +0000"
     },
     "done": true
   },
@@ -1467,6 +1521,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-03-20 22:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:09 +0000"
     },
     "done": true
   },
@@ -1904,6 +1964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-03-20 22:28:11 +0000"
@@ -1979,6 +2045,12 @@
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2025-03-23 00:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:09 +0000"
     },
     "done": true
   },
@@ -2156,6 +2228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-23 01:42:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-03-20 22:13:37 +0000"
@@ -2309,6 +2387,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-03-21 00:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:09 +0000"
     },
     "done": true
   },
@@ -2552,6 +2636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2025-03-23 01:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:32:28 +0000"
@@ -2561,6 +2651,12 @@
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-03-20 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-23 01:34:41 +0000"
     },
     "done": true
   },
@@ -2606,6 +2702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-23 01:42:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-03-23 00:29:55 +0000"
@@ -2639,6 +2741,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-03-20 22:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 01:39:09 +0000"
     },
     "done": true
   },
