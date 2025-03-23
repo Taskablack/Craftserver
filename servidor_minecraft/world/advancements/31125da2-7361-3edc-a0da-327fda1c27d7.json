@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/wasp_attractant": {
+    "criteria": {
+      "has_bone_meal": "2025-03-23 01:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-03-23 01:04:30 +0000"
@@ -428,6 +434,12 @@
   "betterendforge:recipes/betterendforge/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-03-20 22:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-23 01:50:00 +0000"
     },
     "done": true
   },
@@ -1632,6 +1644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-23 01:51:25 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-03-20 22:58:04 +0000"
@@ -1710,6 +1728,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-03-23 01:49:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_oak": {
     "criteria": {
       "has_plank": "2025-03-20 23:20:50 +0000"
@@ -1719,6 +1743,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-03-20 22:20:53 +0000",
+      "baked_potato": "2025-03-23 01:50:06 +0000",
       "porkchop": "2025-03-20 23:16:48 +0000",
       "apple": "2025-03-20 23:09:35 +0000",
       "bread": "2025-03-20 23:03:36 +0000",
@@ -2294,6 +2319,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-03-23 01:51:29 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-03-21 00:04:38 +0000"
@@ -2642,6 +2673,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-03-23 01:49:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:32:28 +0000"
@@ -2855,6 +2892,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-03-20 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2025-03-23 01:51:25 +0000"
     },
     "done": true
   },

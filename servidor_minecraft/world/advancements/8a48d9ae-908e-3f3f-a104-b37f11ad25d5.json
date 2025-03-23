@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-03-23 01:49:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_oak": {
     "criteria": {
       "has_plank": "2025-03-21 00:24:37 +0000"
@@ -398,6 +404,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-03-21 00:22:39 +0000",
+      "baked_potato": "2025-03-23 01:54:11 +0000",
       "apple": "2025-03-21 00:34:10 +0000",
       "bread": "2025-03-21 00:41:09 +0000",
       "rotten_flesh": "2025-03-21 00:25:44 +0000",
@@ -985,6 +992,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-03-21 00:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-03-23 01:49:36 +0000"
     },
     "done": true
   },
@@ -1803,6 +1816,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-03-23 01:49:38 +0000"
     },
     "done": true
   },
