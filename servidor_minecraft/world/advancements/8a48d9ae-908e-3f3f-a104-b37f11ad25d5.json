@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-03-21 01:34:53 +0000"
@@ -20,6 +26,12 @@
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-03-21 00:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
     },
     "done": true
   },
@@ -41,9 +53,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_mahogany_bop": {
+    "criteria": {
+      "has_plank": "2025-03-23 01:11:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-03-21 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
     },
     "done": true
   },
@@ -71,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-03-21 00:24:37 +0000"
@@ -80,6 +116,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-03-21 00:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
     },
     "done": true
   },
@@ -119,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-03-21 00:28:08 +0000"
@@ -140,6 +188,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-03-21 00:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
     },
     "done": true
   },
@@ -188,6 +242,12 @@
   "betterendforge:recipes/betterendforge/iron_hammer": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 00:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-03-23 01:13:05 +0000"
     },
     "done": true
   },
@@ -242,6 +302,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-03-23 01:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
     },
     "done": true
   },
@@ -358,9 +424,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:11:32 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-23 00:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-03-23 01:27:36 +0000"
     },
     "done": true
   },
@@ -382,9 +460,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "has_plank": "2025-03-21 00:49:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-03-23 01:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:11:32 +0000"
     },
     "done": true
   },
@@ -406,9 +514,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 00:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
     },
     "done": true
   },
@@ -442,6 +562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 00:31:37 +0000"
@@ -451,6 +577,12 @@
   "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
     "criteria": {
       "has_stick": "2025-03-21 00:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
     },
     "done": true
   },
@@ -508,6 +640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-23 01:12:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/faucet": {
     "criteria": {
       "has_item": "2025-03-21 00:31:37 +0000"
@@ -523,6 +661,24 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-03-21 00:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-23 01:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
     },
     "done": true
   },
@@ -586,6 +742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
+    },
+    "done": true
+  },
   "rats:rats/root": {
     "criteria": {
       "tick": "2025-03-21 00:08:21 +0000"
@@ -640,6 +802,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:11:32 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2025-03-21 01:34:53 +0000"
@@ -655,6 +823,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-21 00:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
     },
     "done": true
   },
@@ -720,6 +894,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-03-23 01:01:21 +0000"
@@ -735,6 +915,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-03-21 01:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
     },
     "done": true
   },
@@ -792,6 +978,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-21 00:24:37 +0000"
@@ -816,6 +1008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-21 00:24:37 +0000"
@@ -825,6 +1023,12 @@
   "supplementaries:recipes/sign_post_dark_oak": {
     "criteria": {
       "has_plank": "2025-03-21 00:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
     },
     "done": true
   },
@@ -843,6 +1047,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_spruce_planks": "2025-03-21 00:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
     },
     "done": true
   },
@@ -876,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-03-21 00:19:01 +0000"
@@ -888,9 +1104,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/uncanny_sand": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:08:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-03-21 00:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
     },
     "done": true
   },
@@ -909,6 +1143,24 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 00:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_mahogany_bop": {
+    "criteria": {
+      "has_plank": "2025-03-23 01:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-03-23 01:16:28 +0000"
     },
     "done": true
   },
@@ -942,6 +1194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-03-21 00:24:40 +0000"
@@ -960,6 +1218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-21 01:35:14 +0000"
@@ -969,6 +1233,12 @@
   "scalinghealth:recipes/scalinghealth/bandages": {
     "criteria": {
       "cobblestone": "2025-03-21 01:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
     },
     "done": true
   },
@@ -1047,6 +1317,18 @@
   "etched:recipes/decorations/album_jukebox": {
     "criteria": {
       "has_redstone": "2025-03-21 01:35:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
     },
     "done": true
   },
@@ -1134,6 +1416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-21 00:30:12 +0000"
@@ -1161,6 +1449,12 @@
   "scalinghealth:recipes/scalinghealth/heart_dust": {
     "criteria": {
       "cobblestone": "2025-03-21 01:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 01:10:19 +0000"
     },
     "done": true
   },
@@ -1221,6 +1515,12 @@
   "mysticalworld:recipes/mysticalworld/skeleton_top_1": {
     "criteria": {
       "has_bones": "2025-03-21 00:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-03-23 01:13:05 +0000"
     },
     "done": true
   },
@@ -1306,6 +1606,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-03-23 01:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-03-21 00:24:37 +0000"
@@ -1354,6 +1660,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:11:32 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/misc/leather_from_rotten_flesh_x1": {
     "criteria": {
       "has_rotten_Flesh": "2025-03-21 00:24:14 +0000"
@@ -1375,6 +1687,12 @@
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "has_item": "2025-03-21 00:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
     },
     "done": true
   },
@@ -1438,6 +1756,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/uncanny_gravel": {
+    "criteria": {
+      "has_gravel": "2025-03-23 01:27:36 +0000"
+    },
+    "done": true
+  },
   "etched:recipes/decorations/etching_table": {
     "criteria": {
       "has_iron": "2025-03-21 00:31:37 +0000"
@@ -1462,9 +1786,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-23 01:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-03-21 00:24:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-03-23 01:11:32 +0000"
     },
     "done": true
   },
