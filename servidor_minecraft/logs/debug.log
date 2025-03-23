@@ -6719,3 +6719,15 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [23Mar2025 00:19:56.168] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10858 in minecraft:the_nether
 [23Mar2025 00:19:56.169] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10858 in minecraft:the_end
 [23Mar2025 00:19:56.204] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10858 in minecraft:overworld
+[23Mar2025 00:24:52.098] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Mar2025 00:24:52.108] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Mar2025 00:28:06.558] [Worker-Main-4/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[23Mar2025 00:28:06.558] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to mdfc1bfe$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[23Mar2025 00:28:06.558] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to mdfc1bfe$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[23Mar2025 00:28:06.558] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to mdfc1bfe$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[23Mar2025 00:29:52.090] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Mar2025 00:29:52.099] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Mar2025 00:30:28.618] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11352 in minecraft:the_nether
+[23Mar2025 00:30:28.619] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11352 in minecraft:the_end
+[23Mar2025 00:30:28.654] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11352 in minecraft:overworld
+[23Mar2025 00:32:43.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Gone Bananas!]

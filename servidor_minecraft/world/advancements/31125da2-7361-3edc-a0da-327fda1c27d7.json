@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-03-23 00:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-20 22:13:42 +0000"
@@ -356,6 +362,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-03-20 22:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-23 00:24:18 +0000"
     },
     "done": true
   },
@@ -501,6 +513,12 @@
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-23 00:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-03-23 00:24:18 +0000"
     },
     "done": true
   },
@@ -817,6 +835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-23 00:24:18 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/cooked_carrot_from_campfire": {
     "criteria": {
       "has_crops_carrot": "2025-03-20 22:27:29 +0000"
@@ -979,6 +1003,18 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/copper_ingot_from_smelting": {
+    "criteria": {
+      "has_ores_copper": "2025-03-23 00:23:54 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/soft_obsidian": {
+    "criteria": {
+      "has_stone": "2025-03-23 00:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-20 23:06:44 +0000",
@@ -1002,6 +1038,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-03-20 22:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-03-23 00:24:18 +0000"
     },
     "done": true
   },
@@ -1065,6 +1107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-23 00:24:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "has_plank": "2025-03-20 22:32:28 +0000"
@@ -1080,6 +1128,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-03-20 22:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-23 00:24:18 +0000"
     },
     "done": true
   },
@@ -1203,6 +1257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-03-23 00:24:18 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/golden_hammer": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 22:32:45 +0000"
@@ -1293,6 +1353,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/copper_ingot_from_blasting": {
+    "criteria": {
+      "has_ores_copper": "2025-03-23 00:23:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-03-20 22:33:12 +0000"
@@ -1350,6 +1416,12 @@
   "mysticalworld:recipes/mysticalworld/bone_pile_1": {
     "criteria": {
       "has_bones": "2025-03-20 22:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-03-23 00:26:51 +0000"
     },
     "done": true
   },
@@ -1467,9 +1539,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-23 00:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-03-20 22:56:10 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/blackened_stone": {
+    "criteria": {
+      "has_stone": "2025-03-23 00:24:18 +0000"
     },
     "done": true
   },
@@ -1512,6 +1596,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 22:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-03-23 00:26:51 +0000"
     },
     "done": true
   },
@@ -1560,6 +1650,12 @@
   "etched:recipes/decorations/album_jukebox": {
     "criteria": {
       "has_redstone": "2025-03-20 22:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/mysticalworld/stone_knife_from_stone": {
+    "criteria": {
+      "has_stone": "2025-03-23 00:24:18 +0000"
     },
     "done": true
   },
@@ -1695,6 +1791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-23 00:24:18 +0000"
+    },
+    "done": true
+  },
   "scalinghealth:recipes/scalinghealth/heart_dust": {
     "criteria": {
       "cobblestone": "2025-03-20 22:55:05 +0000"
@@ -1785,6 +1887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-03-23 00:23:24 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/beetle_leggings": {
     "criteria": {
       "has_carapace": "2025-03-20 22:30:07 +0000"
@@ -1831,6 +1939,7 @@
       "minecraft:deep_cold_ocean": "2025-03-20 23:10:08 +0000",
       "minecraft:taiga_hills": "2025-03-20 22:14:34 +0000",
       "minecraft:jungle": "2025-03-23 00:19:43 +0000",
+      "minecraft:jungle_hills": "2025-03-23 00:20:01 +0000",
       "minecraft:warm_ocean": "2025-03-21 01:37:34 +0000",
       "minecraft:beach": "2025-03-20 23:05:26 +0000",
       "minecraft:river": "2025-03-20 22:14:15 +0000",
@@ -2019,6 +2128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-03-23 00:24:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-03-20 22:40:01 +0000"
@@ -2079,6 +2194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-03-23 00:26:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "has_item": "2025-03-20 22:48:48 +0000"
@@ -2124,6 +2245,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-03-20 22:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-03-23 00:26:51 +0000"
     },
     "done": true
   },
