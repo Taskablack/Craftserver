@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-24 22:07:09 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/iron_hammer": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:32:28 +0000"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-03-24 22:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/mysticalworld/wood_knife_from_planks": {
     "criteria": {
       "has_planks": "2025-03-20 22:13:37 +0000"
@@ -311,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-24 22:07:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-23 01:01:25 +0000"
@@ -320,6 +338,12 @@
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-03-20 22:13:42 +0000"
+    },
+    "done": true
+  },
+  "undead:bomberssx": {
+    "criteria": {
+      "bomberssx": "2025-03-24 22:03:55 +0000"
     },
     "done": true
   },
@@ -416,6 +440,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "grassland_clover_patch": "2025-03-21 01:34:35 +0000",
+      "fungal_jungle": "2025-03-24 22:08:38 +0000",
       "redwood_forest_edge": "2025-03-21 01:36:42 +0000",
       "bamboo_blossom_grove": "2025-03-23 00:52:15 +0000",
       "highland": "2025-03-20 22:45:56 +0000",
@@ -427,6 +452,7 @@
       "highland_moor": "2025-03-20 22:45:08 +0000",
       "seasonal_forest": "2025-03-20 23:12:50 +0000",
       "highland_crag": "2025-03-20 22:58:31 +0000",
+      "fungal_field": "2025-03-24 22:10:17 +0000",
       "grassland": "2025-03-21 01:34:15 +0000",
       "dense_marsh": "2025-03-23 00:59:15 +0000",
       "snowy_coniferous_forest": "2025-03-21 00:22:24 +0000",
@@ -1234,6 +1260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-24 22:03:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-03-20 22:55:05 +0000"
@@ -1318,6 +1350,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-03-20 22:32:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_item": "2025-03-24 22:07:48 +0000"
     },
     "done": true
   },
@@ -1882,6 +1920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-24 22:07:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-20 22:32:28 +0000"
@@ -1909,6 +1953,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-03-20 22:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-24 22:07:09 +0000"
     },
     "done": true
   },
@@ -2242,6 +2292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-24 22:03:55 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "has_plank": "2025-03-20 22:32:28 +0000"
@@ -2349,6 +2405,12 @@
       "potato": "2025-03-23 01:51:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-24 22:07:09 +0000"
+    },
+    "done": true
   },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
@@ -2488,6 +2550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-24 22:07:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-03-20 22:40:01 +0000"
@@ -2551,6 +2619,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 22:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime": "2025-03-24 22:03:55 +0000"
     },
     "done": true
   },
@@ -2923,6 +2997,12 @@
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_plank": "2025-03-20 22:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-24 22:07:09 +0000"
     },
     "done": true
   },

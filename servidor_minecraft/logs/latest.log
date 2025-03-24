@@ -2231,3 +2231,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [24Mar2025 22:02:04.840] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10336 in minecraft:the_end
 [24Mar2025 22:02:04.869] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10336 in minecraft:overworld
 [24Mar2025 22:03:55.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Da bomber]
+[24Mar2025 22:12:17.135] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/7403, l='ServerLevel[world]', x=-2522.50, y=45.00, z=1387.50]
+[24Mar2025 22:13:16.082] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10576 in minecraft:the_nether
+[24Mar2025 22:13:16.083] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10576 in minecraft:the_end
+[24Mar2025 22:13:16.119] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10576 in minecraft:overworld
+[24Mar2025 22:13:31.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Acidic zombie]
