@@ -6781,3 +6781,18 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [24Mar2025 21:54:26.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Set own game mode to Adventure Mode]
 [24Mar2025 21:54:28.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Set own game mode to Survival Mode]
 [24Mar2025 21:55:18.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Sea Tamer]
+[24Mar2025 21:56:32.789] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Mar2025 21:56:32.822] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Mar2025 21:57:26.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3374ms or 67 ticks behind
+[24Mar2025 22:00:32.352] [Worker-Main-6/DEBUG] [mixin/]: Mixing common.DecorationContextMixin from platform-common.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[24Mar2025 22:00:32.353] [Worker-Main-6/DEBUG] [mixin/]: Mixing access.DecorationContextAccessor from platform-common.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[24Mar2025 22:01:36.291] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Mar2025 22:01:36.300] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Mar2025 22:02:04.840] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10336 in minecraft:the_nether
+[24Mar2025 22:02:04.840] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10336 in minecraft:the_end
+[24Mar2025 22:02:04.869] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10336 in minecraft:overworld
+[24Mar2025 22:03:55.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Da bomber]
+[24Mar2025 22:04:13.655] [Worker-Main-6/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[24Mar2025 22:04:13.656] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to mda31da1$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[24Mar2025 22:04:13.656] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to mda31da1$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[24Mar2025 22:04:13.656] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to mda31da1$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin

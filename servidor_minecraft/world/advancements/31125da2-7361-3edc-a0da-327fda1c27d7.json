@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2025-03-24 21:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/mysticalworld/diamond_knife_from_gems_diamond": {
     "criteria": {
       "has_gems_diamond": "2025-03-23 00:56:04 +0000"
@@ -627,6 +633,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-20 23:06:44 +0000",
       "minecraft:spider": "2025-03-20 23:53:59 +0000",
+      "minecraft:creeper": "2025-03-24 21:54:45 +0000",
       "minecraft:vex": "2025-03-23 00:56:22 +0000",
       "minecraft:zombie": "2025-03-20 23:15:50 +0000",
       "minecraft:drowned": "2025-03-23 01:08:05 +0000"
@@ -852,6 +859,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-03-20 22:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-03-24 21:55:54 +0000"
     },
     "done": true
   },
@@ -1845,6 +1858,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-24 21:55:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-03-20 22:56:41 +0000"
@@ -2112,6 +2131,12 @@
   "minecraft:recipes/misc/diamond_from_smelting": {
     "criteria": {
       "has_diamond_ore": "2025-03-23 00:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-03-24 21:55:54 +0000"
     },
     "done": true
   },
@@ -2433,6 +2458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2025-03-24 21:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-20 22:32:45 +0000"
@@ -2577,6 +2608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-24 21:55:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-20 22:19:14 +0000"
@@ -2592,6 +2629,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-20 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "dungeonsmod:dungeons/kraken": {
+    "criteria": {
+      "kill_kraken": "2025-03-24 21:55:18 +0000"
     },
     "done": true
   },
