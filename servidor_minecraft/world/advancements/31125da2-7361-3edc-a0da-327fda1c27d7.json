@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/cooked_beetroot_from_smoker": {
+    "criteria": {
+      "has_crops_beetroot": "2025-03-24 22:16:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-03-20 22:32:28 +0000"
@@ -448,6 +454,7 @@
       "jade_cliffs": "2025-03-23 00:50:35 +0000",
       "rainforest_floodplain": "2025-03-21 01:40:22 +0000",
       "snowy_maple_forest": "2025-03-21 00:23:34 +0000",
+      "redwood_forest": "2025-03-24 22:13:39 +0000",
       "cherry_blossom_grove": "2025-03-23 00:52:16 +0000",
       "highland_moor": "2025-03-20 22:45:08 +0000",
       "seasonal_forest": "2025-03-20 23:12:50 +0000",
@@ -828,6 +835,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/antler_hat": {
+    "criteria": {
+      "has_antlers": "2025-03-24 22:15:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-03-23 00:24:18 +0000"
@@ -909,6 +922,12 @@
   "mysticalworld:recipes/mysticalworld/uncanny_sand": {
     "criteria": {
       "has_sand": "2025-03-23 01:01:25 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_venison_from_campfire": {
+    "criteria": {
+      "has_venison": "2025-03-24 22:15:26 +0000"
     },
     "done": true
   },
@@ -1294,6 +1313,7 @@
       "minecraft:beach": "2025-03-20 23:05:26 +0000",
       "minecraft:river": "2025-03-20 22:14:15 +0000",
       "minecraft:lukewarm_ocean": "2025-03-21 01:36:56 +0000",
+      "minecraft:wooded_hills": "2025-03-24 22:16:05 +0000",
       "minecraft:giant_tree_taiga_hills": "2025-03-20 23:11:08 +0000",
       "minecraft:swamp": "2025-03-23 00:48:43 +0000"
     },
@@ -1368,6 +1388,12 @@
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_item": "2025-03-20 22:48:48 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_beetroot_from_campfire": {
+    "criteria": {
+      "has_crops_beetroot": "2025-03-24 22:16:41 +0000"
     },
     "done": true
   },
@@ -1743,6 +1769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-03-24 22:16:41 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_plank": "2025-03-20 22:47:20 +0000"
@@ -1824,6 +1856,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/misc/antlers_to_bonemeal": {
+    "criteria": {
+      "has_antlers": "2025-03-24 22:15:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:32:28 +0000"
@@ -1839,6 +1877,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-03-23 00:29:55 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2025-03-24 22:16:41 +0000"
     },
     "done": true
   },
@@ -2040,6 +2084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-03-24 22:16:41 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/faucet": {
     "criteria": {
       "has_item": "2025-03-20 22:32:28 +0000"
@@ -2097,6 +2147,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-03-20 22:48:48 +0000"
+    },
+    "done": true
+  },
+  "undead:shootspit": {
+    "criteria": {
+      "shootspit": "2025-03-24 22:13:31 +0000"
     },
     "done": true
   },
@@ -2742,6 +2798,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/cooked_beetroot": {
+    "criteria": {
+      "has_crops_beetroot": "2025-03-24 22:16:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-03-20 22:48:48 +0000"
@@ -2817,6 +2879,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-03-20 23:20:50 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_venison": {
+    "criteria": {
+      "has_venison": "2025-03-24 22:15:26 +0000"
     },
     "done": true
   },
@@ -2973,6 +3041,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-23 00:56:04 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_venison_from_smoker": {
+    "criteria": {
+      "has_venison": "2025-03-24 22:15:26 +0000"
     },
     "done": true
   },

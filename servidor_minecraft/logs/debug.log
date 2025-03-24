@@ -6805,3 +6805,30 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [24Mar2025 22:13:16.083] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10576 in minecraft:the_end
 [24Mar2025 22:13:16.119] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10576 in minecraft:overworld
 [24Mar2025 22:13:31.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Acidic zombie]
+[24Mar2025 22:16:36.493] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Mar2025 22:16:36.500] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Mar2025 22:19:22.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 was shot by Skeleton
+[24Mar2025 22:19:22.093] [Server thread/DEBUG] [tombstone/]: A new grave of the player Taskablack7 was created at position [x:-2230, y:68, z:533, dim:minecraft:overworld]
+[24Mar2025 22:19:22.096] [Server thread/INFO] [tombstone/]: The player Taskablack7 has successfully been saved
+[24Mar2025 22:19:23.990] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Mar2025 22:19:23.990] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[24Mar2025 22:19:24.003] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@63d220d4 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Mar2025 22:19:24.003] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4f4a7fc6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Mar2025 22:20:10.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 was slain by Vex
+[24Mar2025 22:20:10.994] [Server thread/DEBUG] [tombstone/]: A new grave of the player Taskablack7 was created at position [x:-2235, y:97, z:521, dim:minecraft:overworld]
+[24Mar2025 22:20:10.998] [Server thread/INFO] [tombstone/]: The player Taskablack7 has successfully been saved
+[24Mar2025 22:20:12.259] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Mar2025 22:20:12.260] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24Mar2025 22:20:12.270] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@63d220d4 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Mar2025 22:20:12.270] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4f4a7fc6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[24Mar2025 22:21:36.026] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Mar2025 22:21:36.034] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Mar2025 22:23:07.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Gave 1 [Gold Backpack] to Taskablack7]
+[24Mar2025 22:25:09.587] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9731 in minecraft:the_nether
+[24Mar2025 22:25:09.587] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9731 in minecraft:the_end
+[24Mar2025 22:25:09.619] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9731 in minecraft:overworld
+[24Mar2025 22:25:24.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Set own game mode to Spectator Mode]
+[24Mar2025 22:25:41.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Set own game mode to Creative Mode]
+[24Mar2025 22:25:57.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[24Mar2025 22:26:08.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Set own game mode to Spectator Mode]
+[24Mar2025 22:26:11.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Set own game mode to Survival Mode]
