@@ -2261,3 +2261,56 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [25Mar2025 21:26:13.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to 201.5, 62.5, 2745.5]
 [25Mar2025 21:26:24.390] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [25Mar2025 21:26:24.390] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:39:01.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ANDRES45Y: Teleported ANDRES45Y to Taskablack7]
+[25Mar2025 21:39:43.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/22122, l='ServerLevel[world]', x=323.31, y=27.66, z=274.72]
+[25Mar2025 21:39:43.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/22122, l='ServerLevel[world]', x=323.31, y=27.66, z=274.72]
+[25Mar2025 21:43:36.945] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/24975, l='ServerLevel[world]', x=510.63, y=14.15, z=262.13]
+[25Mar2025 21:44:06.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Nightmare Fuel]
+[25Mar2025 21:44:27.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 was burnt to a crisp whilst fighting Crimson Mosquito
+[25Mar2025 21:44:27.471] [Server thread/INFO] [tombstone/]: The player Taskablack7 has successfully been saved
+[25Mar2025 21:44:28.922] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Mar2025 21:44:28.922] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Mar2025 21:44:28.930] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:44:28.930] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:44:33.727] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:44:33.728] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:46:33.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ANDRES45Y: Teleported ANDRES45Y to Taskablack7]
+[25Mar2025 21:47:24.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to ANDRES45Y]
+[25Mar2025 21:48:00.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ANDRES45Y: Teleported ANDRES45Y to Taskablack7]
+[25Mar2025 21:48:04.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Hidden in the Depths]
+[25Mar2025 21:49:09.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ANDRES45Y: Teleported ANDRES45Y to Taskablack7]
+[25Mar2025 21:49:18.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ANDRES45Y: Teleported ANDRES45Y to Taskablack7]
+[25Mar2025 21:49:18.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported ANDRES45Y to Taskablack7]
+[25Mar2025 21:51:59.087] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ANDRES45Y moved wrongly!
+[25Mar2025 21:52:02.126] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ANDRES45Y moved wrongly!
+[25Mar2025 21:53:23.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ANDRES45Y: Teleported ANDRES45Y to Taskablack7]
+[25Mar2025 21:54:09.956] [Server thread/INFO] [Scaling Health/]: Blight Firelight has died
+[25Mar2025 21:54:16.676] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:54:16.676] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:54:19.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[25Mar2025 21:54:23.280] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:54:23.280] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:54:46.269] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:54:46.269] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:54:47.344] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:54:47.344] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:55:08.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Nightmare Fuel]
+[25Mar2025 21:55:59.670] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/31288, l='ServerLevel[world]', x=739.20, y=38.00, z=255.29]
+[25Mar2025 21:55:59.670] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/31288, l='ServerLevel[world]', x=739.20, y=38.00, z=255.29]
+[25Mar2025 21:56:00.864] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ANDRES45Y lost connection: Disconnected
+[25Mar2025 21:56:00.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y left the game
+[25Mar2025 21:56:57.806] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Taskablack7 lost connection: Disconnected
+[25Mar2025 21:56:57.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 left the game
+[25Mar2025 21:57:06.863] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@27d73bc0
+[25Mar2025 21:57:06.876] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Taskablack7[/127.35.149.51:37351] logged in with entity id 33092 at (714.1596593767568, 46.0, 202.30000001192093)
+[25Mar2025 21:57:06.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 joined the game
+[25Mar2025 21:57:06.941] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:57:06.941] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 22:06:24.403] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Taskablack7 lost connection: Disconnected
+[25Mar2025 22:06:24.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 left the game
+[25Mar2025 22:06:26.655] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1c35cb8c
+[25Mar2025 22:06:26.662] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ANDRES45Y[/127.224.27.55:49457] logged in with entity id 34725 at (745.7198950540284, 39.0, 256.7793328768122)
+[25Mar2025 22:06:26.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y joined the game
+[25Mar2025 22:06:26.716] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 22:06:26.717] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 22:07:33.791] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=734, y=22, z=287} BlockPos{x=734, y=20, z=287}

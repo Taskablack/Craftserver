@@ -601,11 +601,13 @@
       "fungal_jungle": "2025-03-24 22:08:38 +0000",
       "redwood_forest_edge": "2025-03-21 01:36:42 +0000",
       "bamboo_blossom_grove": "2025-03-23 00:52:15 +0000",
+      "bayou": "2025-03-25 21:54:36 +0000",
       "highland": "2025-03-20 22:45:56 +0000",
       "marsh": "2025-03-23 00:53:16 +0000",
       "jade_cliffs": "2025-03-23 00:50:35 +0000",
       "tundra_basin": "2025-03-24 23:01:04 +0000",
       "grove_clearing": "2025-03-25 02:04:25 +0000",
+      "mystic_grove": "2025-03-25 21:54:23 +0000",
       "cold_desert": "2025-03-24 22:23:40 +0000",
       "wooded_scrubland": "2025-03-25 01:33:24 +0000",
       "rainforest_floodplain": "2025-03-21 01:40:22 +0000",
@@ -630,6 +632,7 @@
       "tundra": "2025-03-20 23:15:33 +0000",
       "gravel_beach": "2025-03-20 23:10:28 +0000",
       "grove": "2025-03-25 02:03:40 +0000",
+      "undergrowth": "2025-03-25 21:55:47 +0000",
       "rainforest": "2025-03-21 01:38:58 +0000"
     },
     "done": false
@@ -751,6 +754,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:32:28 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/stone_spear": {
+    "criteria": {
+      "has_stone_sword": "2025-03-25 21:53:42 +0000"
     },
     "done": true
   },
@@ -878,10 +887,12 @@
     "criteria": {
       "minecraft:pillager": "2025-03-24 23:24:42 +0000",
       "minecraft:skeleton": "2025-03-20 23:06:44 +0000",
+      "minecraft:hoglin": "2025-03-25 21:55:02 +0000",
       "minecraft:vindicator": "2025-03-24 23:25:12 +0000",
       "minecraft:spider": "2025-03-20 23:53:59 +0000",
       "minecraft:creeper": "2025-03-24 21:54:45 +0000",
       "minecraft:witch": "2025-03-24 23:27:34 +0000",
+      "minecraft:wither_skeleton": "2025-03-25 21:47:41 +0000",
       "minecraft:stray": "2025-03-24 22:50:21 +0000",
       "minecraft:enderman": "2025-03-25 00:05:25 +0000",
       "minecraft:vex": "2025-03-23 00:56:22 +0000",
@@ -894,6 +905,12 @@
   "betterendforge:recipes/betterendforge/diamond_hammer": {
     "criteria": {
       "has_diamond_ingot": "2025-03-23 00:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-25 21:48:04 +0000"
     },
     "done": true
   },
@@ -1017,6 +1034,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-03-25 21:44:06 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
     "criteria": {
       "has_stick": "2025-03-20 22:19:14 +0000"
@@ -1082,6 +1105,12 @@
       "has_porkchop": "2025-03-20 23:16:45 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_crimson": "2025-03-25 21:47:06 +0000"
+    },
+    "done": false
   },
   "mysticalworld:recipes/mysticalworld/antler_hat": {
     "criteria": {
@@ -1879,6 +1908,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-03-25 21:43:41 +0000",
       "minecraft:soul_sand_valley": "2025-03-25 21:12:47 +0000",
       "minecraft:warped_forest": "2025-03-25 21:12:49 +0000"
     },
@@ -2030,6 +2060,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_nether": "2025-03-25 21:52:45 +0000",
       "in_pyramid_snowy": "2025-03-24 22:50:37 +0000"
     },
     "done": false
@@ -2172,6 +2203,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-25 21:48:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-20 22:55:36 +0000"
@@ -2181,6 +2218,18 @@
   "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
     "criteria": {
       "cooked_mutton_chops": "2025-03-21 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-25 21:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-25 21:48:04 +0000"
     },
     "done": true
   },
