@@ -2314,3 +2314,5 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [25Mar2025 22:06:26.716] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [25Mar2025 22:06:26.717] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [25Mar2025 22:07:33.791] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=734, y=22, z=287} BlockPos{x=734, y=20, z=287}
+[25Mar2025 22:12:32.108] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ANDRES45Y lost connection: Disconnected
+[25Mar2025 22:12:32.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y left the game
