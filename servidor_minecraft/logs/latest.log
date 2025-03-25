@@ -2205,3 +2205,21 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [25Mar2025 20:53:11.518] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [25Mar2025 20:53:25.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to 108.5, 81.5, 2527.5]
 [25Mar2025 20:55:20.004] [Server thread/INFO] [Scaling Health/]: Blight Raccoon has died
+[25Mar2025 20:57:59.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Cover Me With Diamonds]
+[25Mar2025 21:03:07.113] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[25Mar2025 21:03:07.208] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:03:07.208] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:03:07.235] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:03:07.236] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:03:07.240] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:03:07.240] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:03:07.265] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:03:07.265] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:03:07.268] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:03:07.268] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:03:07.347] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:03:07.347] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:03:07.402] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:03:07.402] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[25Mar2025 21:08:11.639] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/6492, l='ServerLevel[world]', x=124.13, y=67.00, z=2768.39]
+[25Mar2025 21:08:11.640] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/6492, l='ServerLevel[world]', x=124.13, y=67.00, z=2768.39]

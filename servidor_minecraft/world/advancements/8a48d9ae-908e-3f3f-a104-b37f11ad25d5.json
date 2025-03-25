@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-03-25 20:57:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-03-21 00:28:08 +0000"
@@ -254,6 +260,12 @@
   "mysticalworld:recipes/mysticalworld/wet_mud_block": {
     "criteria": {
       "has_dirt": "2025-03-21 00:50:37 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/diamond_spear": {
+    "criteria": {
+      "has_diamond_sword": "2025-03-25 20:59:35 +0000"
     },
     "done": true
   },
@@ -965,6 +977,12 @@
     },
     "done": true
   },
+  "whisperwoods:recipes/whisperwoods/wisp_lantern_orange": {
+    "criteria": {
+      "has_ghost_light": "2025-03-25 20:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 00:31:37 +0000"
@@ -986,6 +1004,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-21 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "whisperwoods:recipes/whisperwoods/wisp_lantern_purple": {
+    "criteria": {
+      "has_ghost_light": "2025-03-25 20:54:23 +0000"
     },
     "done": true
   },
@@ -1303,6 +1327,7 @@
       "minecraft:beach": "2025-03-21 00:46:30 +0000",
       "minecraft:river": "2025-03-21 00:20:04 +0000",
       "minecraft:lukewarm_ocean": "2025-03-21 00:46:44 +0000",
+      "minecraft:swamp": "2025-03-25 21:02:34 +0000",
       "minecraft:savanna": "2025-03-24 23:08:23 +0000",
       "minecraft:plains": "2025-03-25 01:17:31 +0000"
     },
@@ -2412,6 +2437,12 @@
     },
     "done": true
   },
+  "whisperwoods:recipes/whisperwoods/wisp_lantern_green": {
+    "criteria": {
+      "has_ghost_light": "2025-03-25 20:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-03-24 23:32:35 +0000"
@@ -2481,6 +2512,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-21 01:35:14 +0000"
+    },
+    "done": true
+  },
+  "whisperwoods:recipes/whisperwoods/wisp_lantern_yellow": {
+    "criteria": {
+      "has_ghost_light": "2025-03-25 20:54:23 +0000"
     },
     "done": true
   },
@@ -2667,6 +2704,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-24 23:54:44 +0000"
+    },
+    "done": true
+  },
+  "whisperwoods:recipes/whisperwoods/wisp_lantern_blue": {
+    "criteria": {
+      "has_ghost_light": "2025-03-25 20:54:23 +0000"
     },
     "done": true
   },
