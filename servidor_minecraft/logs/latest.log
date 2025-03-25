@@ -2238,3 +2238,26 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [25Mar2025 21:13:31.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [The lost ones]
 [25Mar2025 21:14:38.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [The lost ones]
 [25Mar2025 21:16:01.205] [Server thread/INFO] [Scaling Health/]: Blight Firelight has died
+[25Mar2025 21:19:50.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to ANDRES45Y]
+[25Mar2025 21:20:48.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Hidden in the Depths]
+[25Mar2025 21:21:24.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ANDRES45Y: Teleported ANDRES45Y to Taskablack7]
+[25Mar2025 21:23:57.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 burned to death
+[25Mar2025 21:23:57.834] [Server thread/INFO] [tombstone/]: The player Taskablack7 has successfully been saved
+[25Mar2025 21:23:57.853] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[25Mar2025 21:23:59.872] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Mar2025 21:23:59.873] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Mar2025 21:23:59.885] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:23:59.885] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:25:13.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to 201.5, 62.5, 2745.5]
+[25Mar2025 21:25:31.292] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:25:31.292] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:25:40.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to 128.5, 10.5, 360.5]
+[25Mar2025 21:26:07.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 tried to swim in lava
+[25Mar2025 21:26:07.472] [Server thread/INFO] [tombstone/]: The player Taskablack7 has successfully been saved
+[25Mar2025 21:26:09.071] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Mar2025 21:26:09.071] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Mar2025 21:26:09.080] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:26:09.080] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:26:13.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to 201.5, 62.5, 2745.5]
+[25Mar2025 21:26:24.390] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:26:24.390] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
