@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-25 21:12:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 00:31:37 +0000"
@@ -68,6 +74,12 @@
   "minecraft:recipes/mysticalworld/gold_knife_from_ingots_gold": {
     "criteria": {
       "has_ingots_gold": "2025-03-23 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_plank": "2025-03-25 21:06:41 +0000"
     },
     "done": true
   },
@@ -260,6 +272,12 @@
   "mysticalworld:recipes/mysticalworld/wet_mud_block": {
     "criteria": {
       "has_dirt": "2025-03-21 00:50:37 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/wasp_attractant": {
+    "criteria": {
+      "has_bone_meal": "2025-03-25 21:04:55 +0000"
     },
     "done": true
   },
@@ -833,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-25 21:12:09 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
     "criteria": {
       "has_stick": "2025-03-21 00:24:40 +0000"
@@ -953,6 +977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-25 21:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-24 23:34:24 +0000"
@@ -974,6 +1004,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-24 23:35:11 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-03-25 21:12:53 +0000"
     },
     "done": true
   },
@@ -1405,6 +1441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-25 21:06:41 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_item": "2025-03-21 01:35:59 +0000"
@@ -1512,6 +1554,13 @@
       "in_water": "2025-03-21 00:19:01 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-03-25 21:12:54 +0000",
+      "minecraft:warped_forest": "2025-03-25 21:12:56 +0000"
+    },
+    "done": false
   },
   "etched:recipes/decorations/etching_table": {
     "criteria": {
@@ -1687,6 +1736,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-25 21:12:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-03-21 00:24:40 +0000"
@@ -1765,6 +1820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-25 21:04:55 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-03-21 00:23:20 +0000"
@@ -1816,6 +1877,12 @@
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_plank": "2025-03-24 23:34:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_plank": "2025-03-25 21:06:41 +0000"
     },
     "done": true
   },
@@ -1894,6 +1961,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-23 01:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-03-25 21:12:05 +0000"
     },
     "done": true
   },
@@ -2353,6 +2426,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-25 21:12:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-25 02:03:01 +0000"
@@ -2608,6 +2687,12 @@
   "undead:hairylol": {
     "criteria": {
       "hairylol": "2025-03-25 00:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-25 21:09:07 +0000"
     },
     "done": true
   },
@@ -3142,6 +3227,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-03-21 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2025-03-25 21:04:55 +0000"
     },
     "done": true
   },

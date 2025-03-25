@@ -2223,3 +2223,18 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [25Mar2025 21:03:07.402] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
 [25Mar2025 21:08:11.639] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/6492, l='ServerLevel[world]', x=124.13, y=67.00, z=2768.39]
 [25Mar2025 21:08:11.640] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/6492, l='ServerLevel[world]', x=124.13, y=67.00, z=2768.39]
+[25Mar2025 21:09:07.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Taskablack7 to ANDRES45Y]
+[25Mar2025 21:12:05.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Who is Cutting Onions?]
+[25Mar2025 21:12:13.274] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/7364, l='ServerLevel[world]', x=258.40, y=64.00, z=2761.00]
+[25Mar2025 21:12:13.275] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/7364, l='ServerLevel[world]', x=258.40, y=64.00, z=2761.00]
+[25Mar2025 21:12:35.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Who is Cutting Onions?]
+[25Mar2025 21:12:35.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [Ice Bucket Challenge]
+[25Mar2025 21:12:46.471] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:12:46.472] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:12:47.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [We Need to Go Deeper]
+[25Mar2025 21:12:53.575] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@598fc0e3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:12:53.575] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@509a678a (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[25Mar2025 21:12:53.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [We Need to Go Deeper]
+[25Mar2025 21:13:31.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 has made the advancement [The lost ones]
+[25Mar2025 21:14:38.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [The lost ones]
+[25Mar2025 21:16:01.205] [Server thread/INFO] [Scaling Health/]: Blight Firelight has died
