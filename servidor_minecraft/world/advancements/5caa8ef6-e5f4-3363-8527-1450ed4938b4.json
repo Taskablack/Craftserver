@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-30 18:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-20 22:39:06 +0000"
@@ -134,6 +140,12 @@
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
       "has_gold": "2025-03-20 23:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/mysticalworld/diamond_knife_from_gems_diamond": {
+    "criteria": {
+      "has_gems_diamond": "2025-03-30 18:35:18 +0000"
     },
     "done": true
   },
@@ -200,6 +212,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-03-20 22:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-30 18:37:49 +0000"
     },
     "done": true
   },
@@ -391,6 +409,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/pancake": {
+    "criteria": {
+      "has_plank": "2025-03-30 18:37:49 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-03-20 22:32:13 +0000"
@@ -400,6 +424,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-03-21 01:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-03-30 18:35:18 +0000"
     },
     "done": true
   },
@@ -493,6 +523,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/oak_pantry": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-03-30 18:38:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-20 22:57:25 +0000"
@@ -517,6 +553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-03-30 18:35:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-03-21 00:52:59 +0000"
@@ -535,6 +577,12 @@
       "minecraft:zombie_villager": "2025-03-20 22:38:34 +0000"
     },
     "done": false
+  },
+  "betterendforge:recipes/betterendforge/diamond_hammer": {
+    "criteria": {
+      "has_diamond_ingot": "2025-03-30 18:35:18 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
@@ -581,6 +629,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-03-30 18:37:49 +0000"
     },
     "done": true
   },
@@ -728,6 +782,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/fish_and_chips": {
+    "criteria": {
+      "has_cooked_seafood": "2025-03-30 18:35:18 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/cooked_carrot_from_smoker": {
     "criteria": {
       "has_crops_carrot": "2025-03-20 22:26:35 +0000"
@@ -737,6 +797,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-20 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-03-30 18:37:49 +0000"
     },
     "done": true
   },
@@ -1088,6 +1154,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-30 18:43:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-20 22:50:21 +0000"
@@ -1109,6 +1181,12 @@
   "mysticalworld:recipes/misc/leather_from_rotten_flesh_x1": {
     "criteria": {
       "has_rotten_Flesh": "2025-03-20 22:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-03-30 18:35:18 +0000"
     },
     "done": true
   },
@@ -1316,6 +1394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-03-30 18:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-03-21 00:15:19 +0000"
@@ -1349,6 +1433,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-20 22:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-03-30 18:35:18 +0000"
     },
     "done": true
   },
@@ -1490,6 +1580,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-03-30 18:35:18 +0000"
+    },
+    "done": true
+  },
   "undead:moony": {
     "criteria": {
       "moony": "2025-03-20 22:59:38 +0000"
@@ -1598,9 +1694,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-03-30 18:37:49 +0000"
+    },
+    "done": true
+  },
   "undead:pogg": {
     "criteria": {
       "pogg": "2025-03-21 00:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-03-30 18:35:18 +0000"
     },
     "done": true
   },
@@ -1682,6 +1790,12 @@
     },
     "done": true
   },
+  "undead:shootspit": {
+    "criteria": {
+      "shootspit": "2025-03-30 18:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-03-20 22:24:56 +0000"
@@ -1727,6 +1841,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_diamond": "2025-03-30 18:35:18 +0000"
     },
     "done": true
   },
@@ -1802,6 +1922,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-03-30 18:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-03-30 18:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-20 22:57:25 +0000"
@@ -1844,9 +1976,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-30 18:35:18 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-03-20 22:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-03-30 18:35:18 +0000"
     },
     "done": true
   },
@@ -1959,6 +2103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-03-30 18:35:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-03-20 22:33:04 +0000"
@@ -2052,6 +2202,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-21 01:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-03-30 18:35:18 +0000"
     },
     "done": true
   },
@@ -2247,6 +2403,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-03-30 18:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-03-20 22:24:56 +0000"
@@ -2346,6 +2508,12 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "has_item": "2025-03-20 22:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-03-30 18:35:18 +0000"
     },
     "done": true
   },

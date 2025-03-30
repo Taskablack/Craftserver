@@ -7268,3 +7268,13 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [30Mar2025 18:35:18.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Diamonds!]
 [30Mar2025 18:36:04.117] [Worker-Main-6/DEBUG] [mixin/]: Mixing common.DecorationContextMixin from platform-common.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
 [30Mar2025 18:36:04.117] [Worker-Main-6/DEBUG] [mixin/]: Mixing access.DecorationContextAccessor from platform-common.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[30Mar2025 18:38:37.794] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Mar2025 18:38:37.801] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Mar2025 18:40:17.554] [Worker-Main-12/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[30Mar2025 18:40:17.554] [Worker-Main-12/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to mdfce45d$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[30Mar2025 18:40:17.554] [Worker-Main-12/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to mdfce45d$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[30Mar2025 18:40:17.554] [Worker-Main-12/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to mdfce45d$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[30Mar2025 18:43:35.373] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=905, y=9, z=196} BlockPos{x=904, y=7, z=196}
+[30Mar2025 18:43:35.428] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=905, y=9, z=196} BlockPos{x=904, y=7, z=196}
+[30Mar2025 18:43:37.569] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Mar2025 18:43:37.577] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
