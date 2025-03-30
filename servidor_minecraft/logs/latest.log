@@ -2177,3 +2177,22 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [30Mar2025 18:26:33.327] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 62f2d13d-949f-4857-b26b-8e07446f9b92. Existing rats:demon_rat#1486, new: rats:demon_rat#1486
 [30Mar2025 18:26:33.328] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 99b888aa-1a66-4450-9e98-0079981c059a. Existing rats:demon_rat#1488, new: rats:demon_rat#1488
 [30Mar2025 18:26:33.329] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID c0b5fa4a-af0a-46cb-bc46-9c0fd3cdee0e. Existing rats:demon_rat#1491, new: rats:demon_rat#1491
+[30Mar2025 18:32:14.576] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1e9c4f37
+[30Mar2025 18:32:14.589] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ANDRES45Y[/127.224.27.55:37315] logged in with entity id 3910 at (873.5853214827948, 12.0, 269.4631414717149)
+[30Mar2025 18:32:14.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y joined the game
+[30Mar2025 18:32:14.659] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@65dce8b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[30Mar2025 18:32:14.660] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6eac50bb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[30Mar2025 18:33:05.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> mache
+[30Mar2025 18:33:24.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/4360, l='ServerLevel[world]', x=-1897.58, y=62.71, z=1528.30]
+[30Mar2025 18:33:24.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> encontre algo
+[30Mar2025 18:33:28.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ANDRES45Y> goti4
+[30Mar2025 18:33:57.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Taskablack7> peren voy a ver la ip para el chasis
+[30Mar2025 18:33:59.420] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Taskablack7 lost connection: Disconnected
+[30Mar2025 18:33:59.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 left the game
+[30Mar2025 18:34:13.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Acidic zombie]
+[30Mar2025 18:34:24.670] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2995b69c
+[30Mar2025 18:34:24.679] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Taskablack7[/127.37.65.195:46445] logged in with entity id 4655 at (714.9813845102647, 46.0, 201.31082848620855)
+[30Mar2025 18:34:24.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 joined the game
+[30Mar2025 18:34:24.736] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@65dce8b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[30Mar2025 18:34:24.737] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6eac50bb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[30Mar2025 18:35:18.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Diamonds!]
