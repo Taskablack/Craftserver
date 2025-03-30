@@ -617,6 +617,7 @@
       "lush_desert": "2025-03-24 23:04:32 +0000",
       "redwood_forest": "2025-03-24 22:13:39 +0000",
       "cherry_blossom_grove": "2025-03-23 00:52:16 +0000",
+      "visceral_heap": "2025-03-30 19:15:08 +0000",
       "highland_moor": "2025-03-20 22:45:08 +0000",
       "seasonal_forest": "2025-03-20 23:12:50 +0000",
       "grove_lakes": "2025-03-25 02:04:30 +0000",
@@ -1301,6 +1302,12 @@
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2025-03-20 22:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-03-30 19:09:05 +0000"
     },
     "done": true
   },
@@ -2701,6 +2708,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/dandelion_cornflower_salad": {
+    "criteria": {
+      "has_dandelion": "2025-03-30 19:09:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-03-20 22:48:48 +0000"
@@ -3572,6 +3585,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/cactus_dandelion_salad": {
+    "criteria": {
+      "has_dandelion": "2025-03-30 19:09:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-03-23 00:29:55 +0000"
@@ -3716,6 +3735,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/dandelion_cordial": {
+    "criteria": {
+      "has_first": "2025-03-30 19:09:05 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/sapphire_helmet": {
     "criteria": {
       "has_gems_sapphire": "2025-03-25 00:02:07 +0000"
@@ -3737,6 +3762,12 @@
   "mysticalworld:recipes/mysticalworld/cooked_venison": {
     "criteria": {
       "has_venison": "2025-03-24 22:15:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2025-03-30 19:12:02 +0000"
     },
     "done": true
   },

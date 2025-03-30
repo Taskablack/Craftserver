@@ -2206,3 +2206,21 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [30Mar2025 19:06:26.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Taskablack7> yaa
 [30Mar2025 19:08:19.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [We Need to Go Deeper]
 [30Mar2025 19:08:19.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Kitzune_85 to Taskablack7]
+[30Mar2025 19:12:55.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y has made the advancement [Hot Stuff]
+[30Mar2025 19:13:14.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has reached the goal [Strong or Careful]
+[30Mar2025 19:13:14.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 was doomed to fall by Taskablack7
+[30Mar2025 19:13:14.345] [Server thread/INFO] [tombstone/]: The player Kitzune_85 has successfully been saved
+[30Mar2025 19:13:17.325] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[30Mar2025 19:13:17.326] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[30Mar2025 19:15:08.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ANDRES45Y: Teleported Taskablack7 to ANDRES45Y]
+[30Mar2025 19:15:18.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Kitzune_85 to ANDRES45Y]
+[30Mar2025 19:15:25.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 was slain by ANDRES45Y
+[30Mar2025 19:15:25.654] [Server thread/INFO] [tombstone/]: The player Kitzune_85 has successfully been saved
+[30Mar2025 19:15:27.769] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[30Mar2025 19:15:27.770] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[30Mar2025 19:16:28.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Hidden in the Depths]
+[30Mar2025 19:16:46.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 was slain by ANDRES45Y
+[30Mar2025 19:16:46.701] [Server thread/INFO] [tombstone/]: The player Kitzune_85 has successfully been saved
+[30Mar2025 19:16:48.064] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[30Mar2025 19:16:48.064] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[30Mar2025 19:17:33.292] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 999f207e-0b97-45ea-a866-2527f49d9539. Existing rats:demon_rat#28912, new: rats:demon_rat#28912

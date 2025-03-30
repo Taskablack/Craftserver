@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-30 19:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/mysticalworld/gold_knife_from_ingots_gold": {
     "criteria": {
       "has_ingots_gold": "2025-03-20 23:06:39 +0000"
@@ -401,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-30 19:12:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "grassland_clover_patch": "2025-03-21 00:43:27 +0000",
@@ -410,6 +422,7 @@
       "rainforest_floodplain": "2025-03-21 00:52:26 +0000",
       "snowy_maple_forest": "2025-03-21 00:23:46 +0000",
       "redwood_forest": "2025-03-21 01:25:00 +0000",
+      "visceral_heap": "2025-03-30 19:15:19 +0000",
       "highland_moor": "2025-03-20 22:45:09 +0000",
       "seasonal_forest": "2025-03-20 23:12:51 +0000",
       "rainforest_cliffs": "2025-03-21 01:32:09 +0000",
@@ -418,6 +431,7 @@
       "snowy_fir_clearing": "2025-03-21 00:22:33 +0000",
       "tundra": "2025-03-20 23:15:20 +0000",
       "gravel_beach": "2025-03-20 23:10:36 +0000",
+      "undergrowth": "2025-03-30 19:11:46 +0000",
       "rainforest": "2025-03-21 00:52:11 +0000"
     },
     "done": false
@@ -606,6 +620,12 @@
   "betterendforge:recipes/betterendforge/diamond_hammer": {
     "criteria": {
       "has_diamond_ingot": "2025-03-30 18:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-30 19:16:28 +0000"
     },
     "done": true
   },
@@ -1211,6 +1231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-30 19:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-20 22:50:21 +0000"
@@ -1327,7 +1353,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-03-30 19:08:19 +0000"
+      "minecraft:crimson_forest": "2025-03-30 19:08:19 +0000",
+      "minecraft:warped_forest": "2025-03-30 19:15:02 +0000"
     },
     "done": false
   },
@@ -1481,6 +1508,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-30 19:16:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-20 22:57:25 +0000"
@@ -1490,6 +1523,12 @@
   "supplementaries:recipes/rope_arrow": {
     "criteria": {
       "has_plank": "2025-03-20 22:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-30 19:16:28 +0000"
     },
     "done": true
   },
@@ -1556,6 +1595,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-03-20 22:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-30 19:12:32 +0000"
     },
     "done": true
   },
@@ -1800,6 +1845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-30 19:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-21 01:45:24 +0000"
@@ -1863,6 +1914,12 @@
   "supplementaries:recipes/faucet": {
     "criteria": {
       "has_item": "2025-03-20 22:34:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-30 19:13:14 +0000"
     },
     "done": true
   },
@@ -2305,6 +2362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-30 19:09:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-03-20 23:17:42 +0000"
@@ -2527,6 +2590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-30 19:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-21 01:34:35 +0000"
@@ -2566,6 +2635,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-03-21 00:24:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2025-03-30 19:11:53 +0000"
     },
     "done": true
   },
@@ -2620,6 +2695,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-03-20 22:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-30 19:12:32 +0000"
     },
     "done": true
   },
