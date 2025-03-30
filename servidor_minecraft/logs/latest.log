@@ -2201,3 +2201,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [30Mar2025 18:50:50.109] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=881, y=17, z=169} BlockPos{x=882, y=15, z=168}
 [30Mar2025 18:53:33.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [An Ore Above Diamonds?]
 [30Mar2025 18:58:30.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Hairy Zombie]
+[30Mar2025 18:58:53.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has reached the goal [Bone Crusher]
+[30Mar2025 19:00:45.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [The Parrots and the Bats]
+[30Mar2025 19:06:26.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Taskablack7> yaa
+[30Mar2025 19:08:19.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [We Need to Go Deeper]
+[30Mar2025 19:08:19.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Taskablack7: Teleported Kitzune_85 to Taskablack7]
