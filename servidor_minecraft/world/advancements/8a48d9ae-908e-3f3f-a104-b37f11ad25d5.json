@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2025-03-30 18:46:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 00:31:37 +0000"
@@ -870,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 18:46:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-24 23:54:44 +0000"
@@ -885,6 +897,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 00:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 18:46:35 +0000"
     },
     "done": true
   },
@@ -1089,6 +1107,12 @@
   "whisperwoods:recipes/whisperwoods/wisp_lantern_orange": {
     "criteria": {
       "has_ghost_light": "2025-03-25 20:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 18:46:35 +0000"
     },
     "done": true
   },
@@ -1344,6 +1368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 18:46:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-23 01:10:19 +0000"
@@ -1353,6 +1383,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-25 02:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 18:46:35 +0000"
     },
     "done": true
   },
@@ -1880,6 +1916,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-03-25 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 18:46:35 +0000"
     },
     "done": true
   },
@@ -2729,6 +2771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 18:46:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-03-24 23:56:55 +0000"
@@ -3161,6 +3209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2025-03-30 18:46:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_planks": {
     "criteria": {
       "has_logs": "2025-03-23 01:11:22 +0000"
@@ -3260,6 +3314,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-03-23 01:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2025-03-30 18:46:35 +0000"
     },
     "done": true
   },

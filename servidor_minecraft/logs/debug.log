@@ -7278,3 +7278,12 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [30Mar2025 18:43:35.428] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=905, y=9, z=196} BlockPos{x=904, y=7, z=196}
 [30Mar2025 18:43:37.569] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [30Mar2025 18:43:37.577] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Mar2025 18:48:37.475] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Mar2025 18:48:37.484] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Mar2025 18:50:50.109] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=881, y=17, z=169} BlockPos{x=882, y=15, z=168}
+[30Mar2025 18:53:33.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [An Ore Above Diamonds?]
+[30Mar2025 18:53:37.433] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Mar2025 18:53:37.441] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Mar2025 18:58:30.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 has made the advancement [Hairy Zombie]
+[30Mar2025 18:58:37.532] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Mar2025 18:58:37.541] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

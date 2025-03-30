@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-30 18:48:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-03-20 22:34:11 +0000"
@@ -314,6 +320,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-03-20 22:32:13 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-03-30 18:48:11 +0000"
     },
     "done": true
   },
@@ -394,6 +406,7 @@
       "grassland_clover_patch": "2025-03-21 00:43:27 +0000",
       "redwood_forest_edge": "2025-03-21 00:46:24 +0000",
       "highland": "2025-03-20 22:45:53 +0000",
+      "tundra_basin": "2025-03-30 18:54:53 +0000",
       "rainforest_floodplain": "2025-03-21 00:52:26 +0000",
       "snowy_maple_forest": "2025-03-21 00:23:46 +0000",
       "redwood_forest": "2025-03-21 01:25:00 +0000",
@@ -454,6 +467,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-20 22:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-30 18:48:11 +0000"
     },
     "done": true
   },
@@ -602,6 +621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-30 18:47:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-20 22:57:25 +0000"
@@ -671,6 +696,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-21 01:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-30 18:56:37 +0000"
     },
     "done": true
   },
@@ -872,6 +903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-30 18:53:33 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-03-20 22:22:49 +0000"
@@ -1046,6 +1083,12 @@
     },
     "done": true
   },
+  "oresabovediamonds:main/find_amethyst": {
+    "criteria": {
+      "found_amethyst": "2025-03-30 18:53:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_plank": "2025-03-21 00:24:36 +0000"
@@ -1079,6 +1122,7 @@
       "minecraft:taiga": "2025-03-20 22:25:31 +0000",
       "minecraft:giant_tree_taiga": "2025-03-20 23:11:34 +0000",
       "minecraft:deep_cold_ocean": "2025-03-20 23:10:14 +0000",
+      "minecraft:snowy_tundra": "2025-03-30 18:57:23 +0000",
       "minecraft:taiga_hills": "2025-03-20 22:25:01 +0000",
       "minecraft:jungle": "2025-03-21 00:47:33 +0000",
       "minecraft:jungle_hills": "2025-03-21 01:33:09 +0000",
@@ -1115,6 +1159,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-03-20 22:50:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_plank": "2025-03-30 18:43:53 +0000"
     },
     "done": true
   },
@@ -1208,6 +1258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-30 18:48:11 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-03-20 22:22:49 +0000"
@@ -1283,6 +1339,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-03-20 22:50:21 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/aubergine_salad": {
+    "criteria": {
+      "has_kelp": "2025-03-30 18:48:11 +0000"
     },
     "done": true
   },
@@ -1460,6 +1522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-03-30 18:47:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_plank": "2025-03-20 22:51:49 +0000"
@@ -1541,6 +1609,12 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_plank": "2025-03-20 23:06:39 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/beetroot_salad": {
+    "criteria": {
+      "has_kelp": "2025-03-30 18:48:11 +0000"
     },
     "done": true
   },
@@ -1928,6 +2002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-30 18:56:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-03-30 18:35:18 +0000"
@@ -1943,6 +2023,12 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-03-30 18:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-30 18:56:37 +0000"
     },
     "done": true
   },
@@ -2154,6 +2240,12 @@
   "mysticalworld:recipes/mysticalworld/bone_pile_1": {
     "criteria": {
       "has_bones": "2025-03-20 22:35:37 +0000"
+    },
+    "done": true
+  },
+  "undead:hairylol": {
+    "criteria": {
+      "hairylol": "2025-03-30 18:58:30 +0000"
     },
     "done": true
   },
