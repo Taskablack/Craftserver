@@ -2224,3 +2224,36 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [30Mar2025 19:16:48.064] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [30Mar2025 19:16:48.064] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [30Mar2025 19:17:33.292] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 999f207e-0b97-45ea-a866-2527f49d9539. Existing rats:demon_rat#28912, new: rats:demon_rat#28912
+[30Mar2025 19:19:42.561] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=858, y=13, z=3} BlockPos{x=805, y=9, z=5}
+[30Mar2025 19:19:49.709] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ANDRES45Y lost connection: Timed out
+[30Mar2025 19:19:49.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y left the game
+[30Mar2025 19:19:49.761] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[30Mar2025 19:19:50.058] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Kitzune_85 lost connection: Timed out
+[30Mar2025 19:19:50.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 left the game
+[30Mar2025 19:20:03.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[30Mar2025 19:20:03.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: asdasd<--[HERE]
+[30Mar2025 19:20:04.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[30Mar2025 19:20:04.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: asd<--[HERE]
+[30Mar2025 19:20:13.912] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@55ced581
+[30Mar2025 19:20:13.921] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ANDRES45Y[/127.224.27.55:59217] logged in with entity id 31570 at (809.3000000119209, 11.0, 5.349395438736045)
+[30Mar2025 19:20:13.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y joined the game
+[30Mar2025 19:20:13.975] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@65dce8b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[30Mar2025 19:20:13.975] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6eac50bb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[30Mar2025 19:20:24.916] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@55c5938d
+[30Mar2025 19:20:24.924] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Kitzune_85[/127.34.214.59:32895] logged in with entity id 31667 at (795.0393675775694, 11.0, 5.699999988079071)
+[30Mar2025 19:20:24.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 joined the game
+[30Mar2025 19:21:18.403] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=795, y=4, z=6} BlockPos{x=795, y=3, z=6}
+[30Mar2025 19:21:49.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ANDRES45Y: Teleported ANDRES45Y to Taskablack7]
+[30Mar2025 19:22:04.007] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ANDRES45Y lost connection: Disconnected
+[30Mar2025 19:22:04.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y left the game
+[30Mar2025 19:22:22.864] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f38cddf
+[30Mar2025 19:22:22.871] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ANDRES45Y[/127.224.27.55:53123] logged in with entity id 32855 at (640.8707678320131, 11.0, -1.699999988079071)
+[30Mar2025 19:22:22.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ANDRES45Y joined the game
+[30Mar2025 19:22:22.932] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@65dce8b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[30Mar2025 19:22:22.933] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@6eac50bb (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[30Mar2025 19:22:29.367] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=624, y=12, z=-5} BlockPos{x=624, y=11, z=-5}
+[30Mar2025 19:22:42.224] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=593, y=11, z=0} BlockPos{x=593, y=11, z=-1}
+[30Mar2025 19:23:25.362] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Kitzune_85 lost connection: Timed out
+[30Mar2025 19:23:25.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kitzune_85 left the game
+[30Mar2025 19:25:41.708] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Taskablack7 lost connection: Disconnected
+[30Mar2025 19:25:41.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taskablack7 left the game
